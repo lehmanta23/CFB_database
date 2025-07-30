@@ -1,0 +1,1591 @@
+game_id,year,week,home_team_id,home,away_team_id,away,home_score,away_score
+401628319,2024,1,3,Alabama,289,Western Kentucky,63,0
+401628320,2024,1,10,Arkansas,12,Arkansas-Pine Bluff,70,0
+401628321,2024,1,14,Auburn,4,Alabama A&M,73,3
+401628322,2024,1,69,Florida,137,Miami,17,41
+401628323,2024,1,80,Georgia,45,Clemson,34,3
+401628324,2024,1,110,Kentucky,223,Southern Miss,31,0
+401628325,2024,1,184,Ole Miss,76,Furman,76,0
+401628326,2024,1,144,Mississippi State,64,Eastern Kentucky,56,7
+401628327,2024,1,146,Missouri,153,Murray State,51,0
+401628328,2024,1,181,Oklahoma,236,Temple,51,3
+401628329,2024,1,215,South Carolina,183,Old Dominion,23,19
+401628330,2024,1,237,Tennessee,42,Chattanooga,69,3
+401628331,2024,1,240,Texas,49,Colorado State,52,0
+401628332,2024,1,241,Texas A&M,178,Notre Dame,13,23
+401628333,2024,1,271,Vanderbilt,275,Virginia Tech,34,27
+401628334,2024,1,113,LSU,260,USC,20,27
+401628335,2024,2,3,Alabama,219,South Florida,42,16
+401628336,2024,2,182,Oklahoma State,10,Arkansas,39,31
+401628337,2024,2,14,Auburn,32,California,14,21
+401628338,2024,2,69,Florida,207,Samford,45,7
+401628339,2024,2,80,Georgia,239,Tennessee Tech,48,0
+401628340,2024,2,110,Kentucky,215,South Carolina,6,31
+401628341,2024,2,113,LSU,161,Nicholls,44,21
+401628342,2024,2,184,Ole Miss,141,Middle Tennessee,52,3
+401628343,2024,2,9,Arizona State,144,Mississippi State,30,23
+401628344,2024,2,146,Missouri,29,Buffalo,38,0
+401628345,2024,2,181,Oklahoma,90,Houston,16,12
+401628346,2024,2,154,NC State,237,Tennessee,10,51
+401628347,2024,2,139,Michigan,240,Texas,12,31
+401628348,2024,2,241,Texas A&M,132,McNeese,52,7
+401628349,2024,2,271,Vanderbilt,6,Alcorn State,55,0
+401628350,2024,3,294,Wisconsin,3,Alabama,10,42
+401628351,2024,3,10,Arkansas,252,UAB,37,27
+401628352,2024,3,14,Auburn,159,New Mexico,45,19
+401628353,2024,3,69,Florida,241,Texas A&M,20,33
+401628354,2024,3,110,Kentucky,80,Georgia,12,13
+401628355,2024,3,279,Wake Forest,184,Ole Miss,6,40
+401628356,2024,3,144,Mississippi State,246,Toledo,17,41
+401628357,2024,3,146,Missouri,24,Boston College,27,21
+401628358,2024,3,181,Oklahoma,249,Tulane,34,19
+401628359,2024,3,215,South Carolina,113,LSU,33,36
+401628360,2024,3,237,Tennessee,109,Kent State,71,0
+401628361,2024,3,240,Texas,263,UTSA,56,7
+401628362,2024,3,82,Georgia State,271,Vanderbilt,36,32
+401628363,2024,4,14,Auburn,10,Arkansas,14,24
+401628364,2024,4,110,Kentucky,179,Ohio,41,6
+401628365,2024,4,113,LSU,256,UCLA,34,17
+401628366,2024,4,184,Ole Miss,81,Georgia Southern,52,13
+401628367,2024,4,144,Mississippi State,69,Florida,28,45
+401628368,2024,4,146,Missouri,271,Vanderbilt,30,27
+401628369,2024,4,181,Oklahoma,237,Tennessee,15,25
+401628370,2024,4,215,South Carolina,2,Akron,50,7
+401628371,2024,4,240,Texas,258,UL Monroe,51,3
+401628372,2024,4,241,Texas A&M,25,Bowling Green,26,20
+401628373,2024,5,241,Texas A&M,10,Arkansas,21,17
+401628374,2024,5,3,Alabama,80,Georgia,7,0
+401628375,2024,5,14,Auburn,181,Oklahoma,21,27
+401628376,2024,5,113,LSU,214,South Alabama,42,10
+401628377,2024,5,184,Ole Miss,110,Kentucky,17,20
+401628378,2024,5,240,Texas,144,Mississippi State,35,13
+401628379,2024,6,10,Arkansas,237,Tennessee,19,14
+401628380,2024,6,69,Florida,255,UCF,24,13
+401628381,2024,6,80,Georgia,14,Auburn,31,13
+401628382,2024,6,215,South Carolina,184,Ole Miss,3,27
+401628383,2024,6,241,Texas A&M,146,Missouri,41,10
+401628384,2024,6,271,Vanderbilt,3,Alabama,40,35
+401628385,2024,7,3,Alabama,215,South Carolina,27,25
+401628386,2024,7,80,Georgia,144,Mississippi State,41,31
+401628387,2024,7,110,Kentucky,271,Vanderbilt,13,20
+401628388,2024,7,113,LSU,184,Ole Miss,29,26
+401628389,2024,7,130,Massachusetts,146,Missouri,3,45
+401628390,2024,7,181,Oklahoma,240,Texas,3,34
+401628391,2024,7,237,Tennessee,69,Florida,23,17
+401628392,2024,8,10,Arkansas,113,LSU,10,34
+401628393,2024,8,69,Florida,110,Kentucky,48,20
+401628394,2024,8,144,Mississippi State,241,Texas A&M,24,34
+401628395,2024,8,146,Missouri,14,Auburn,21,17
+401628396,2024,8,181,Oklahoma,215,South Carolina,9,35
+401628397,2024,8,237,Tennessee,3,Alabama,24,17
+401628398,2024,8,240,Texas,80,Georgia,15,30
+401628399,2024,8,271,Vanderbilt,19,Ball State,24,14
+401628400,2024,9,3,Alabama,146,Missouri,34,0
+401628401,2024,9,110,Kentucky,14,Auburn,10,24
+401628402,2024,9,184,Ole Miss,181,Oklahoma,26,14
+401628403,2024,9,144,Mississippi State,10,Arkansas,25,58
+401628404,2024,9,241,Texas A&M,113,LSU,38,23
+401628405,2024,9,271,Vanderbilt,240,Texas,24,27
+401628406,2024,10,10,Arkansas,184,Ole Miss,31,63
+401628407,2024,10,14,Auburn,271,Vanderbilt,7,17
+401628408,2024,10,80,Georgia,69,Florida,34,20
+401628409,2024,10,144,Mississippi State,130,Massachusetts,45,20
+401628410,2024,10,181,Oklahoma,126,Maine,59,14
+401628411,2024,10,215,South Carolina,241,Texas A&M,44,20
+401628412,2024,10,237,Tennessee,110,Kentucky,28,18
+401628413,2024,11,113,LSU,3,Alabama,13,42
+401628414,2024,11,184,Ole Miss,80,Georgia,28,10
+401628415,2024,11,146,Missouri,181,Oklahoma,30,23
+401628416,2024,11,237,Tennessee,144,Mississippi State,33,14
+401628417,2024,11,240,Texas,69,Florida,49,17
+401628418,2024,11,271,Vanderbilt,215,South Carolina,7,28
+401628419,2024,12,10,Arkansas,240,Texas,10,20
+401628420,2024,12,69,Florida,113,LSU,27,16
+401628421,2024,12,80,Georgia,237,Tennessee,31,17
+401628422,2024,12,110,Kentucky,153,Murray State,48,6
+401628423,2024,12,215,South Carolina,146,Missouri,34,30
+401628424,2024,12,241,Texas A&M,160,New Mexico State,38,3
+401628425,2024,12,3,Alabama,134,Mercer,52,7
+401628426,2024,12,14,Auburn,258,UL Monroe,48,14
+401628427,2024,13,10,Arkansas,124,Louisiana Tech,35,14
+401628428,2024,13,14,Auburn,241,Texas A&M,43,41
+401628429,2024,13,69,Florida,184,Ole Miss,24,17
+401628430,2024,13,80,Georgia,130,Massachusetts,59,21
+401628431,2024,13,113,LSU,271,Vanderbilt,24,17
+401628432,2024,13,144,Mississippi State,146,Missouri,20,39
+401628433,2024,13,181,Oklahoma,3,Alabama,24,3
+401628434,2024,13,215,South Carolina,295,Wofford,56,12
+401628435,2024,13,237,Tennessee,262,UTEP,56,0
+401628436,2024,13,240,Texas,110,Kentucky,31,14
+401628437,2024,14,3,Alabama,14,Auburn,28,14
+401628438,2024,14,73,Florida State,69,Florida,11,31
+401628439,2024,14,80,Georgia,83,Georgia Tech,44,42
+401628440,2024,14,110,Kentucky,125,Louisville,14,41
+401628441,2024,14,113,LSU,181,Oklahoma,37,17
+401628442,2024,14,184,Ole Miss,144,Mississippi State,26,14
+401628443,2024,14,146,Missouri,10,Arkansas,28,21
+401628444,2024,14,45,Clemson,215,South Carolina,14,17
+401628445,2024,14,241,Texas A&M,240,Texas,7,17
+401628446,2024,14,271,Vanderbilt,237,Tennessee,23,36
+401628448,2024,1,143,Minnesota,164,North Carolina,17,19
+401628449,2024,1,98,Indiana,72,Florida International,31,7
+401628450,2024,1,101,Iowa,96,Illinois State,40,0
+401628451,2024,1,129,Maryland,257,UConn,50,7
+401628452,2024,1,139,Michigan,75,Fresno State,23,10
+401628453,2024,1,140,Michigan State,71,Florida Atlantic,16,10
+401628454,2024,1,156,Nebraska,262,UTEP,40,7
+401628455,2024,1,180,Ohio State,2,Akron,52,6
+401628456,2024,1,185,Oregon,93,Idaho,24,14
+401628457,2024,1,285,West Virginia,187,Penn State,12,34
+401628458,2024,1,201,Rutgers,92,Howard,38,7
+401628459,2024,1,88,Hawai'i,256,UCLA,13,16
+401628460,2024,1,281,Washington,283,Weber State,35,3
+401628461,2024,1,294,Wisconsin,290,Western Michigan,28,14
+401628462,2024,2,95,Illinois,106,Kansas,23,17
+401628463,2024,2,98,Indiana,288,Western Illinois,77,3
+401628464,2024,2,101,Iowa,102,Iowa State,19,20
+401628465,2024,2,129,Maryland,140,Michigan State,24,27
+401628466,2024,2,143,Minnesota,196,Rhode Island,48,0
+401628467,2024,2,156,Nebraska,48,Colorado,28,10
+401628468,2024,2,180,Ohio State,290,Western Michigan,57,0
+401628469,2024,2,185,Oregon,23,Boise State,37,34
+401628470,2024,2,187,Penn State,25,Bowling Green,34,27
+401628471,2024,2,201,Rutgers,2,Akron,49,17
+401628472,2024,2,260,USC,267,Utah State,48,0
+401628473,2024,2,281,Washington,65,Eastern Michigan,30,9
+401628474,2024,2,294,Wisconsin,217,South Dakota,27,13
+401628475,2024,3,95,Illinois,37,Central Michigan,30,9
+401628476,2024,3,256,UCLA,98,Indiana,13,42
+401628477,2024,3,101,Iowa,248,Troy,38,21
+401628478,2024,3,273,Virginia,129,Maryland,13,27
+401628479,2024,3,139,Michigan,11,Arkansas State,28,18
+401628480,2024,3,140,Michigan State,192,Prairie View A&M,40,0
+401628481,2024,3,143,Minnesota,157,Nevada,27,0
+401628482,2024,3,156,Nebraska,174,Northern Iowa,34,3
+401628483,2024,3,186,Oregon State,185,Oregon,14,49
+401628484,2024,3,281,Washington,282,Washington State,19,24
+401628485,2024,4,156,Nebraska,95,Illinois,24,31
+401628486,2024,4,98,Indiana,41,Charlotte,52,14
+401628487,2024,4,143,Minnesota,101,Iowa,14,31
+401628488,2024,4,129,Maryland,272,Villanova,38,20
+401628489,2024,4,139,Michigan,260,USC,27,24
+401628490,2024,4,24,Boston College,140,Michigan State,23,19
+401628491,2024,4,281,Washington,176,Northwestern,24,5
+401628492,2024,4,180,Ohio State,128,Marshall,49,14
+401628493,2024,4,187,Penn State,109,Kent State,56,0
+401628494,2024,4,275,Virginia Tech,201,Rutgers,23,26
+401628495,2024,5,187,Penn State,95,Illinois,21,7
+401628496,2024,5,98,Indiana,129,Maryland,42,28
+401628497,2024,5,139,Michigan,143,Minnesota,27,24
+401628498,2024,5,140,Michigan State,180,Ohio State,7,38
+401628499,2024,5,195,Purdue,156,Nebraska,10,28
+401628500,2024,5,256,UCLA,185,Oregon,13,34
+401628501,2024,5,201,Rutgers,281,Washington,21,18
+401628502,2024,5,260,USC,294,Wisconsin,38,21
+401628503,2024,6,176,Northwestern,98,Indiana,24,41
+401628504,2024,6,180,Ohio State,101,Iowa,35,7
+401628505,2024,6,281,Washington,139,Michigan,27,17
+401628506,2024,6,185,Oregon,140,Michigan State,31,10
+401628507,2024,6,143,Minnesota,260,USC,24,17
+401628508,2024,6,156,Nebraska,201,Rutgers,14,0
+401628509,2024,6,294,Wisconsin,195,Purdue,52,6
+401628510,2024,6,187,Penn State,256,UCLA,27,11
+401628511,2024,7,95,Illinois,195,Purdue,50,49
+401628512,2024,7,101,Iowa,281,Washington,40,16
+401628513,2024,7,129,Maryland,176,Northwestern,10,37
+401628514,2024,7,256,UCLA,143,Minnesota,17,21
+401628515,2024,7,185,Oregon,180,Ohio State,32,31
+401628516,2024,7,260,USC,187,Penn State,30,33
+401628517,2024,7,201,Rutgers,294,Wisconsin,7,42
+401628518,2024,8,95,Illinois,139,Michigan,21,7
+401628519,2024,8,98,Indiana,156,Nebraska,56,7
+401628520,2024,8,140,Michigan State,101,Iowa,32,20
+401628521,2024,8,129,Maryland,260,USC,29,28
+401628522,2024,8,176,Northwestern,294,Wisconsin,3,23
+401628523,2024,8,195,Purdue,185,Oregon,0,35
+401628524,2024,8,201,Rutgers,256,UCLA,32,35
+401628525,2024,9,185,Oregon,95,Illinois,38,9
+401628526,2024,9,98,Indiana,281,Washington,31,17
+401628527,2024,9,101,Iowa,176,Northwestern,40,14
+401628528,2024,9,143,Minnesota,129,Maryland,48,23
+401628529,2024,9,139,Michigan,140,Michigan State,24,17
+401628530,2024,9,180,Ohio State,156,Nebraska,21,17
+401628531,2024,9,294,Wisconsin,187,Penn State,13,28
+401628532,2024,9,260,USC,201,Rutgers,42,20
+401628533,2024,10,95,Illinois,143,Minnesota,17,25
+401628534,2024,10,140,Michigan State,98,Indiana,10,47
+401628535,2024,10,101,Iowa,294,Wisconsin,42,10
+401628536,2024,10,139,Michigan,185,Oregon,17,38
+401628537,2024,10,156,Nebraska,256,UCLA,20,27
+401628538,2024,10,195,Purdue,176,Northwestern,20,26
+401628539,2024,10,187,Penn State,180,Ohio State,13,20
+401628540,2024,10,281,Washington,260,USC,26,21
+401628541,2024,11,98,Indiana,139,Michigan,20,15
+401628542,2024,11,256,UCLA,101,Iowa,20,17
+401628543,2024,11,185,Oregon,129,Maryland,39,18
+401628544,2024,11,201,Rutgers,143,Minnesota,26,19
+401628545,2024,11,180,Ohio State,195,Purdue,45,0
+401628546,2024,11,187,Penn State,281,Washington,35,6
+401628547,2024,12,95,Illinois,140,Michigan State,38,16
+401628548,2024,12,129,Maryland,201,Rutgers,17,31
+401628549,2024,12,260,USC,156,Nebraska,28,20
+401628550,2024,12,176,Northwestern,180,Ohio State,7,31
+401628551,2024,12,294,Wisconsin,185,Oregon,13,16
+401628552,2024,12,195,Purdue,187,Penn State,10,49
+401628553,2024,12,281,Washington,256,UCLA,31,19
+401628554,2024,13,201,Rutgers,95,Illinois,31,38
+401628555,2024,13,180,Ohio State,98,Indiana,38,15
+401628556,2024,13,129,Maryland,101,Iowa,13,29
+401628557,2024,13,139,Michigan,176,Northwestern,50,6
+401628558,2024,13,140,Michigan State,195,Purdue,24,17
+401628559,2024,13,143,Minnesota,187,Penn State,19,16
+401628560,2024,13,156,Nebraska,294,Wisconsin,44,25
+401628561,2024,13,256,UCLA,260,USC,13,19
+401628562,2024,14,101,Iowa,156,Nebraska,13,10
+401628563,2024,14,176,Northwestern,95,Illinois,28,38
+401628564,2024,14,98,Indiana,195,Purdue,66,0
+401628565,2024,14,187,Penn State,129,Maryland,38,7
+401628566,2024,14,180,Ohio State,139,Michigan,10,13
+401628567,2024,14,140,Michigan State,201,Rutgers,14,41
+401628568,2024,14,294,Wisconsin,143,Minnesota,7,24
+401628569,2024,14,185,Oregon,281,Washington,49,21
+401628570,2024,14,256,UCLA,75,Fresno State,20,13
+401628571,2024,14,260,USC,178,Notre Dame,28,35
+401628572,2024,13,186,Oregon State,282,Washington State,41,38
+401628579,2024,1,55,Delaware,27,Bryant,48,17
+401628580,2024,1,272,Villanova,298,Youngstown State,24,17
+401628581,2024,1,279,Wake Forest,165,North Carolina A&T,45,13
+401628582,2024,1,255,UCF,158,New Hampshire,57,3
+401628583,2024,1,66,Eastern Washington,148,Monmouth,42,27
+401628584,2024,1,58,Duke,68,Elon,26,3
+401628585,2024,1,253,UAlbany,122,Long Island University,27,21
+401628586,2024,1,118,Liberty,33,Campbell,41,24
+401628588,2024,1,196,Rhode Island,89,Holy Cross,20,17
+401628589,2024,1,273,Virginia,198,Richmond,34,13
+401628590,2024,1,128,Marshall,232,Stony Brook,45,3
+401628591,2024,1,43,Cincinnati,247,Towson,38,20
+401628592,2024,1,292,William & Mary,269,VMI,41,7
+401628593,2024,2,285,West Virginia,253,UAlbany,49,14
+401628594,2024,2,287,Western Carolina,33,Campbell,10,24
+401628595,2024,2,166,North Carolina Central,68,Elon,19,41
+401628596,2024,2,148,Monmouth,114,Lafayette,35,40
+401628597,2024,2,150,Montana State,126,Maine,41,24
+401628598,2024,2,89,Holy Cross,158,New Hampshire,20,21
+401628599,2024,2,198,Richmond,295,Wofford,19,26
+401628600,2024,2,232,Stony Brook,231,Stonehill,37,10
+401628601,2024,2,247,Towson,152,Morgan State,14,9
+401628602,2024,2,47,Colgate,272,Villanova,3,21
+401628603,2024,2,46,Coastal Carolina,292,William & Mary,40,21
+401628605,2024,2,85,Hampton,276,Virginia Union,33,21
+401628606,2024,2,165,North Carolina A&T,293,Winston-Salem,27,20
+401628607,2024,3,126,Maine,148,Monmouth,22,51
+401628608,2024,3,196,Rhode Island,33,Campbell,21,9
+401628609,2024,3,165,North Carolina A&T,55,Delaware,13,42
+401628610,2024,3,272,Villanova,247,Towson,14,13
+401628611,2024,3,295,Wofford,292,William & Mary,21,28
+401628612,2024,3,68,Elon,287,Western Carolina,17,24
+401628613,2024,3,162,Norfolk State,85,Hampton,7,37
+401628614,2024,3,158,New Hampshire,231,Stonehill,45,6
+401628615,2024,3,198,Richmond,40,Charleston Southern,38,0
+401628617,2024,3,93,Idaho,253,UAlbany,41,13
+401628618,2024,3,27,Bryant,89,Holy Cross,22,43
+401628619,2024,4,158,New Hampshire,27,Bryant,38,17
+401628620,2024,4,33,Campbell,232,Stony Brook,17,24
+401628621,2024,4,55,Delaware,188,Pennsylvania,29,22
+401628622,2024,4,68,Elon,61,East Tennessee State,14,34
+401628623,2024,4,85,Hampton,92,Howard,26,20
+401628624,2024,4,136,Merrimack,126,Maine,15,26
+401628625,2024,4,72,Florida International,148,Monmouth,42,45
+401628626,2024,4,166,North Carolina Central,165,North Carolina A&T,66,24
+401628627,2024,4,122,Long Island University,196,Rhode Island,21,29
+401628629,2024,4,168,North Dakota State,247,Towson,41,24
+401628631,2024,5,253,UAlbany,126,Maine,20,34
+401628632,2024,5,68,Elon,198,Richmond,17,27
+401628633,2024,5,292,William & Mary,85,Hampton,49,7
+401628634,2024,5,33,Campbell,56,Delaware State,44,41
+401628635,2024,5,55,Delaware,205,Sacred Heart,49,0
+401628636,2024,5,148,Monmouth,74,Fordham,63,21
+401628637,2024,5,216,South Carolina State,165,North Carolina A&T,31,17
+401628638,2024,5,232,Stony Brook,152,Morgan State,22,3
+401628639,2024,5,272,Villanova,122,Long Island University,24,10
+401628640,2024,6,148,Monmouth,55,Delaware,35,42
+401628641,2024,6,85,Hampton,196,Rhode Island,44,46
+401628642,2024,6,198,Richmond,165,North Carolina A&T,20,17
+401628643,2024,6,232,Stony Brook,272,Villanova,24,42
+401628644,2024,6,247,Towson,292,William & Mary,34,27
+401628645,2024,6,51,Cornell,253,UAlbany,10,16
+401628646,2024,6,26,Brown,27,Bryant,14,17
+401628647,2024,6,33,Campbell,166,North Carolina Central,14,45
+401628650,2024,7,55,Delaware,126,Maine,44,21
+401628651,2024,7,68,Elon,158,New Hampshire,10,17
+401628653,2024,7,196,Rhode Island,26,Brown,31,21
+401628654,2024,8,292,William & Mary,33,Campbell,35,28
+401628655,2024,8,126,Maine,272,Villanova,35,0
+401628656,2024,8,165,North Carolina A&T,85,Hampton,17,59
+401628657,2024,8,247,Towson,232,Stony Brook,24,52
+401628658,2024,8,198,Richmond,55,Delaware,28,9
+401628659,2024,8,158,New Hampshire,196,Rhode Island,9,26
+401628660,2024,8,148,Monmouth,27,Bryant,55,17
+401628661,2024,8,253,UAlbany,68,Elon,14,30
+401628662,2024,9,55,Delaware,253,UAlbany,28,14
+401628664,2024,9,33,Campbell,165,North Carolina A&T,21,7
+401628665,2024,9,85,Hampton,68,Elon,41,21
+401628666,2024,9,196,Rhode Island,126,Maine,24,14
+401628667,2024,9,148,Monmouth,247,Towson,14,26
+401628668,2024,9,272,Villanova,158,New Hampshire,14,6
+401628670,2024,10,165,North Carolina A&T,292,William & Mary,7,45
+401628671,2024,10,85,Hampton,272,Villanova,14,20
+401628672,2024,10,198,Richmond,247,Towson,35,24
+401628673,2024,10,27,Bryant,232,Stony Brook,30,31
+401628674,2024,10,196,Rhode Island,148,Monmouth,31,28
+401628675,2024,10,253,UAlbany,158,New Hampshire,14,31
+401628676,2024,10,68,Elon,33,Campbell,50,27
+401628677,2024,11,232,Stony Brook,253,UAlbany,24,6
+401628678,2024,11,126,Maine,27,Bryant,38,26
+401628679,2024,11,33,Campbell,198,Richmond,24,27
+401628680,2024,11,55,Delaware,196,Rhode Island,24,21
+401628681,2024,11,292,William & Mary,68,Elon,36,40
+401628682,2024,11,247,Towson,85,Hampton,27,10
+401628683,2024,11,158,New Hampshire,148,Monmouth,33,20
+401628684,2024,11,272,Villanova,165,North Carolina A&T,31,3
+401628685,2024,12,85,Hampton,198,Richmond,21,24
+401628686,2024,12,148,Monmouth,272,Villanova,40,33
+401628687,2024,12,68,Elon,126,Maine,31,25
+401628688,2024,12,247,Towson,165,North Carolina A&T,31,13
+401628689,2024,12,196,Rhode Island,253,UAlbany,7,17
+401628690,2024,12,292,William & Mary,27,Bryant,22,12
+401628691,2024,12,55,Delaware,33,Campbell,41,22
+401628692,2024,12,158,New Hampshire,232,Stony Brook,31,30
+401628693,2024,13,126,Maine,158,New Hampshire,9,27
+401628694,2024,13,272,Villanova,55,Delaware,38,28
+401628695,2024,13,198,Richmond,292,William & Mary,27,0
+401628696,2024,13,165,North Carolina A&T,68,Elon,21,31
+401628697,2024,13,232,Stony Brook,148,Monmouth,47,55
+401628698,2024,13,253,UAlbany,85,Hampton,41,34
+401628700,2024,13,33,Campbell,247,Towson,23,45
+401628977,2024,2,178,Notre Dame,173,Northern Illinois,14,16
+401628978,2024,3,195,Purdue,178,Notre Dame,7,66
+401628979,2024,4,178,Notre Dame,138,Miami (OH),28,3
+401628980,2024,5,178,Notre Dame,125,Louisville,31,24
+401628981,2024,7,178,Notre Dame,228,Stanford,49,7
+401628982,2024,8,83,Georgia Tech,178,Notre Dame,13,31
+401628983,2024,9,155,Navy,178,Notre Dame,14,51
+401628984,2024,11,178,Notre Dame,73,Florida State,52,3
+401628985,2024,12,178,Notre Dame,273,Virginia,35,14
+401629030,2024,3,58,Duke,257,UConn,26,21
+401629031,2024,4,257,UConn,71,Florida Atlantic,48,20
+401629032,2024,5,257,UConn,29,Buffalo,47,3
+401629033,2024,6,257,UConn,236,Temple,29,20
+401629034,2024,8,257,UConn,279,Wake Forest,20,23
+401629035,2024,9,257,UConn,197,Rice,17,10
+401629036,2024,10,257,UConn,82,Georgia State,34,27
+401629037,2024,11,252,UAB,257,UConn,23,31
+401629038,2024,14,130,Massachusetts,257,UConn,42,47
+401629039,2024,1,130,Massachusetts,65,Eastern Michigan,14,28
+401629040,2024,2,246,Toledo,130,Massachusetts,38,23
+401629041,2024,3,29,Buffalo,130,Massachusetts,34,3
+401629042,2024,4,130,Massachusetts,36,Central Connecticut,35,31
+401629043,2024,5,138,Miami (OH),130,Massachusetts,23,20
+401629044,2024,6,173,Northern Illinois,130,Massachusetts,34,20
+401629045,2024,11,170,North Texas,13,Army,3,14
+401629046,2024,12,130,Massachusetts,118,Liberty,34,28
+401632062,2024,1,125,Louisville,16,Austin Peay,62,0
+401632064,2024,1,11,Arkansas State,35,Central Arkansas,34,31
+401632066,2024,1,268,Utah Tech,150,Montana State,0,7
+401632067,2024,2,0,Abilene Christian,284,West Georgia,38,24
+401632068,2024,2,289,Western Kentucky,64,Eastern Kentucky,31,0
+401632069,2024,2,120,Lindenwood,35,Central Arkansas,13,34
+401632070,2024,2,16,Austin Peay,222,Southern Illinois,17,31
+401632071,2024,2,259,UNLV,268,Utah Tech,72,14
+401632072,2024,2,262,UTEP,224,Southern Utah,24,27
+401632073,2024,3,35,Central Arkansas,16,Austin Peay,45,17
+401632074,2024,3,64,Eastern Kentucky,284,West Georgia,19,7
+401632075,2024,3,224,Southern Utah,254,UC Davis,21,24
+401632077,2024,11,284,West Georgia,235,Tarleton State,21,38
+401632078,2024,4,64,Eastern Kentucky,151,Morehead State,42,13
+401632100,2024,4,16,Austin Peay,4,Alabama A&M,59,16
+401632101,2024,4,254,UC Davis,268,Utah Tech,32,14
+401632102,2024,4,94,Idaho State,224,Southern Utah,38,28
+401632103,2024,5,268,Utah Tech,0,Abilene Christian,30,55
+401632106,2024,5,16,Austin Peay,224,Southern Utah,17,28
+401632107,2024,5,35,Central Arkansas,115,Lamar,34,14
+401632108,2024,6,163,North Alabama,268,Utah Tech,60,14
+401632110,2024,5,64,Eastern Kentucky,199,Robert Morris,31,7
+401632112,2024,6,224,Southern Utah,235,Tarleton State,31,31
+401632113,2024,7,163,North Alabama,0,Abilene Christian,47,34
+401632114,2024,7,235,Tarleton State,268,Utah Tech,42,0
+401632116,2024,9,224,Southern Utah,284,West Georgia,17,28
+401632117,2024,6,0,Abilene Christian,35,Central Arkansas,41,27
+401632118,2024,8,284,West Georgia,212,Shorter,41,13
+401632119,2024,12,16,Austin Peay,64,Eastern Kentucky,27,30
+401632120,2024,9,64,Eastern Kentucky,268,Utah Tech,28,17
+401632122,2024,9,16,Austin Peay,235,Tarleton State,17,27
+401632123,2024,9,35,Central Arkansas,163,North Alabama,24,19
+401632124,2024,10,235,Tarleton State,64,Eastern Kentucky,13,17
+401632126,2024,10,163,North Alabama,16,Austin Peay,17,31
+401632128,2024,10,0,Abilene Christian,224,Southern Utah,28,25
+401632129,2024,12,268,Utah Tech,284,West Georgia,21,7
+401632130,2024,11,16,Austin Peay,0,Abilene Christian,34,35
+401632131,2024,13,235,Tarleton State,35,Central Arkansas,39,14
+401632132,2024,13,64,Eastern Kentucky,163,North Alabama,14,0
+401632134,2024,8,268,Utah Tech,16,Austin Peay,7,13
+401632135,2024,11,163,North Alabama,224,Southern Utah,38,26
+401632136,2024,7,35,Central Arkansas,284,West Georgia,34,27
+401632137,2024,8,0,Abilene Christian,64,Eastern Kentucky,34,20
+401632139,2024,12,235,Tarleton State,0,Abilene Christian,31,35
+401632140,2024,11,64,Eastern Kentucky,35,Central Arkansas,31,24
+401632142,2024,13,16,Austin Peay,42,Chattanooga,17,24
+401632143,2024,13,224,Southern Utah,268,Utah Tech,34,31
+401632459,2024,2,82,Georgia State,42,Chattanooga,24,21
+401632460,2024,3,42,Chattanooga,134,Mercer,3,10
+401632461,2024,5,42,Chattanooga,191,Portland State,45,30
+401632462,2024,6,61,East Tennessee State,42,Chattanooga,10,17
+401632463,2024,7,76,Furman,42,Chattanooga,10,41
+401632464,2024,8,42,Chattanooga,295,Wofford,25,5
+401632465,2024,9,42,Chattanooga,269,VMI,31,10
+401632466,2024,10,287,Western Carolina,42,Chattanooga,38,34
+401632467,2024,11,245,The Citadel,42,Chattanooga,7,31
+401632468,2024,12,42,Chattanooga,207,Samford,13,36
+401633979,2024,2,220,Southeast Missouri State,261,UT Martin,42,42
+401633980,2024,4,239,Tennessee Tech,238,Tennessee State,24,14
+401633981,2024,5,238,Tennessee State,40,Charleston Southern,13,9
+401633982,2024,5,63,Eastern Illinois,120,Lindenwood,27,28
+401633983,2024,5,77,Gardner-Webb,239,Tennessee Tech,14,52
+401633984,2024,6,40,Charleston Southern,288,Western Illinois,20,31
+401633985,2024,6,63,Eastern Illinois,220,Southeast Missouri State,27,38
+401633986,2024,6,261,UT Martin,77,Gardner-Webb,35,17
+401633987,2024,6,120,Lindenwood,238,Tennessee State,20,24
+401633988,2024,7,120,Lindenwood,40,Charleston Southern,29,14
+401633989,2024,7,238,Tennessee State,63,Eastern Illinois,41,17
+401633990,2024,7,220,Southeast Missouri State,239,Tennessee Tech,34,3
+401633991,2024,7,288,Western Illinois,261,UT Martin,17,45
+401633992,2024,8,40,Charleston Southern,220,Southeast Missouri State,13,26
+401633993,2024,8,77,Gardner-Webb,120,Lindenwood,42,35
+401633994,2024,8,288,Western Illinois,239,Tennessee Tech,37,21
+401633995,2024,9,239,Tennessee Tech,40,Charleston Southern,28,23
+401633996,2024,9,261,UT Martin,63,Eastern Illinois,52,17
+401633997,2024,9,220,Southeast Missouri State,77,Gardner-Webb,30,24
+401633998,2024,9,120,Lindenwood,288,Western Illinois,49,38
+401633999,2024,10,40,Charleston Southern,77,Gardner-Webb,14,17
+401634000,2024,10,63,Eastern Illinois,288,Western Illinois,45,38
+401634001,2024,10,239,Tennessee Tech,120,Lindenwood,52,10
+401634002,2024,10,238,Tennessee State,261,UT Martin,21,28
+401634003,2024,11,40,Charleston Southern,261,UT Martin,14,40
+401634004,2024,11,77,Gardner-Webb,63,Eastern Illinois,31,28
+401634005,2024,11,120,Lindenwood,220,Southeast Missouri State,24,12
+401634006,2024,11,288,Western Illinois,238,Tennessee State,20,45
+401634007,2024,12,63,Eastern Illinois,40,Charleston Southern,13,13
+401634008,2024,12,77,Gardner-Webb,238,Tennessee State,20,23
+401634009,2024,12,220,Southeast Missouri State,288,Western Illinois,54,45
+401634010,2024,12,261,UT Martin,239,Tennessee Tech,7,10
+401634011,2024,13,239,Tennessee Tech,63,Eastern Illinois,23,6
+401634012,2024,13,288,Western Illinois,77,Gardner-Webb,45,28
+401634013,2024,13,261,UT Martin,120,Lindenwood,13,18
+401634014,2024,13,238,Tennessee State,220,Southeast Missouri State,28,21
+401634017,2024,9,177,Northwestern State,115,Lamar,10,42
+401634019,2024,7,97,Incarnate Word,161,Nicholls,55,10
+401634020,2024,10,132,McNeese,62,East Texas A&M,31,3
+401634021,2024,12,62,East Texas A&M,91,Houston Christian,41,40
+401634022,2024,8,97,Incarnate Word,132,McNeese,21,17
+401634023,2024,11,202,SE Louisiana,177,Northwestern State,41,0
+401634025,2024,10,115,Lamar,202,SE Louisiana,24,30
+401634026,2024,9,161,Nicholls,132,McNeese,24,19
+401634027,2024,11,91,Houston Christian,161,Nicholls,24,21
+401634028,2024,11,97,Incarnate Word,115,Lamar,41,20
+401634030,2024,7,177,Northwestern State,62,East Texas A&M,21,42
+401634031,2024,6,91,Houston Christian,132,McNeese,27,9
+401634032,2024,9,202,SE Louisiana,97,Incarnate Word,31,34
+401634033,2024,8,62,East Texas A&M,115,Lamar,20,23
+401634034,2024,8,161,Nicholls,177,Northwestern State,20,0
+401634035,2024,10,97,Incarnate Word,91,Houston Christian,45,20
+401634036,2024,12,177,Northwestern State,132,McNeese,3,28
+401634037,2024,12,115,Lamar,161,Nicholls,24,7
+401634038,2024,6,202,SE Louisiana,62,East Texas A&M,21,9
+401634039,2024,13,161,Nicholls,202,SE Louisiana,16,19
+401634040,2024,13,91,Houston Christian,177,Northwestern State,65,24
+401634041,2024,13,62,East Texas A&M,97,Incarnate Word,17,14
+401634042,2024,13,132,McNeese,115,Lamar,24,26
+401634046,2024,5,172,Northern Colorado,31,Cal Poly,7,28
+401634047,2024,5,254,UC Davis,93,Idaho,28,26
+401634048,2024,5,94,Idaho State,150,Montana State,17,37
+401634049,2024,5,66,Eastern Washington,149,Montana,49,52
+401634051,2024,6,31,Cal Poly,94,Idaho State,38,38
+401634052,2024,6,93,Idaho,171,Northern Arizona,23,17
+401634053,2024,6,149,Montana,283,Weber State,30,31
+401634054,2024,6,150,Montana State,172,Northern Colorado,55,17
+401634055,2024,6,191,Portland State,254,UC Davis,23,21
+401634056,2024,7,254,UC Davis,31,Cal Poly,56,10
+401634057,2024,7,204,Sacramento State,66,Eastern Washington,21,28
+401634058,2024,7,94,Idaho State,191,Portland State,38,42
+401634099,2024,7,149,Montana,171,Northern Arizona,31,20
+401634100,2024,7,150,Montana State,93,Idaho,38,0
+401634101,2024,7,283,Weber State,172,Northern Colorado,17,21
+401634102,2024,8,93,Idaho,31,Cal Poly,34,35
+401634103,2024,8,66,Eastern Washington,254,UC Davis,38,48
+401634104,2024,8,171,Northern Arizona,94,Idaho State,30,26
+401634105,2024,8,191,Portland State,150,Montana State,14,44
+401634106,2024,8,204,Sacramento State,283,Weber State,48,41
+401634108,2024,9,94,Idaho State,204,Sacramento State,24,21
+401634109,2024,9,172,Northern Colorado,149,Montana,0,24
+401634110,2024,10,31,Cal Poly,149,Montana,7,42
+401634111,2024,10,66,Eastern Washington,150,Montana State,28,42
+401634112,2024,10,171,Northern Arizona,283,Weber State,27,6
+401634113,2024,10,254,UC Davis,172,Northern Colorado,59,7
+401634114,2024,10,204,Sacramento State,191,Portland State,38,58
+401634115,2024,11,31,Cal Poly,171,Northern Arizona,14,31
+401634116,2024,11,172,Northern Colorado,66,Eastern Washington,15,43
+401634117,2024,11,191,Portland State,93,Idaho,30,39
+401634118,2024,11,283,Weber State,94,Idaho State,35,43
+401634119,2024,11,149,Montana,254,UC Davis,14,30
+401634120,2024,11,150,Montana State,204,Sacramento State,49,7
+401634121,2024,12,31,Cal Poly,204,Sacramento State,26,23
+401634122,2024,12,66,Eastern Washington,94,Idaho State,7,7
+401634123,2024,12,93,Idaho,283,Weber State,31,24
+401634124,2024,12,149,Montana,191,Portland State,28,17
+401634125,2024,12,254,UC Davis,150,Montana State,28,30
+401634126,2024,12,172,Northern Colorado,171,Northern Arizona,3,44
+401634127,2024,13,283,Weber State,31,Cal Poly,28,17
+401634128,2024,13,171,Northern Arizona,66,Eastern Washington,30,18
+401634129,2024,13,94,Idaho State,93,Idaho,17,40
+401634130,2024,13,150,Montana State,149,Montana,27,3
+401634131,2024,13,191,Portland State,172,Northern Colorado,45,13
+401634132,2024,13,204,Sacramento State,254,UC Davis,39,42
+401634133,2024,1,7,App State,61,East Tennessee State,38,10
+401634134,2024,2,61,East Tennessee State,264,UVA Wise,61,0
+401634135,2024,3,61,East Tennessee State,168,North Dakota State,35,38
+401634137,2024,7,61,East Tennessee State,207,Samford,31,28
+401634138,2024,9,295,Wofford,61,East Tennessee State,7,24
+401634139,2024,10,134,Mercer,61,East Tennessee State,37,31
+401634140,2024,11,61,East Tennessee State,287,Western Carolina,24,21
+401634141,2024,12,61,East Tennessee State,76,Furman,21,24
+401634142,2024,13,269,VMI,61,East Tennessee State,9,16
+401634143,2024,1,134,Mercer,193,Presbyterian,63,10
+401634144,2024,2,21,Bethune-Cookman,134,Mercer,0,28
+401634145,2024,4,134,Mercer,245,The Citadel,38,21
+401634146,2024,5,295,Wofford,134,Mercer,3,20
+401634147,2024,7,134,Mercer,194,Princeton,34,7
+401634148,2024,8,207,Samford,134,Mercer,55,35
+401634149,2024,9,134,Mercer,287,Western Carolina,44,34
+401634150,2024,11,269,VMI,134,Mercer,0,34
+401634151,2024,13,134,Mercer,76,Furman,49,23
+401634152,2024,1,77,Gardner-Webb,295,Wofford,20,21
+401634153,2024,6,287,Western Carolina,295,Wofford,21,17
+401634154,2024,7,295,Wofford,269,VMI,21,16
+401634155,2024,10,207,Samford,295,Wofford,13,17
+401634156,2024,11,76,Furman,295,Wofford,13,19
+401634157,2024,12,295,Wofford,245,The Citadel,17,30
+401634158,2024,2,163,North Alabama,96,Illinois State,17,24
+401634159,2024,3,96,Illinois State,288,Western Illinois,51,28
+401634160,2024,4,96,Illinois State,63,Eastern Illinois,31,7
+401634161,2024,5,96,Illinois State,168,North Dakota State,10,42
+401634162,2024,6,222,Southern Illinois,96,Illinois State,10,45
+401634163,2024,7,96,Illinois State,147,Missouri State,7,31
+401634164,2024,8,153,Murray State,96,Illinois State,32,40
+401634165,2024,10,96,Illinois State,298,Youngstown State,23,16
+401634166,2024,11,174,Northern Iowa,96,Illinois State,9,31
+401634167,2024,12,99,Indiana State,96,Illinois State,19,31
+401634168,2024,13,96,Illinois State,167,North Dakota,35,13
+401634169,2024,1,195,Purdue,99,Indiana State,49,0
+401634170,2024,2,63,Eastern Illinois,99,Indiana State,27,20
+401634171,2024,3,99,Indiana State,54,Dayton,24,13
+401634172,2024,5,99,Indiana State,91,Houston Christian,24,27
+401634173,2024,6,298,Youngstown State,99,Indiana State,21,14
+401634174,2024,7,99,Indiana State,153,Murray State,31,27
+401634175,2024,8,147,Missouri State,99,Indiana State,46,21
+401634176,2024,9,99,Indiana State,222,Southern Illinois,7,17
+401634177,2024,10,99,Indiana State,167,North Dakota,35,31
+401634178,2024,11,217,South Dakota,99,Indiana State,49,0
+401634179,2024,13,174,Northern Iowa,99,Indiana State,41,34
+401634180,2024,1,149,Montana,147,Missouri State,29,24
+401634181,2024,2,19,Ball State,147,Missouri State,42,34
+401634182,2024,3,147,Missouri State,120,Lindenwood,28,14
+401634183,2024,4,261,UT Martin,147,Missouri State,24,31
+401634184,2024,5,147,Missouri State,298,Youngstown State,38,31
+401634185,2024,9,174,Northern Iowa,147,Missouri State,42,49
+401634186,2024,10,147,Missouri State,222,Southern Illinois,38,17
+401634187,2024,11,153,Murray State,147,Missouri State,31,60
+401634188,2024,12,168,North Dakota State,147,Missouri State,59,21
+401634189,2024,13,147,Missouri State,218,South Dakota State,9,45
+401634190,2024,2,153,Murray State,30,Butler,17,19
+401634191,2024,3,153,Murray State,145,Mississippi Valley State,59,8
+401634192,2024,5,167,North Dakota,153,Murray State,72,35
+401634193,2024,6,153,Murray State,217,South Dakota,0,59
+401634194,2024,9,153,Murray State,168,North Dakota State,0,21
+401634195,2024,10,218,South Dakota State,153,Murray State,52,6
+401634196,2024,13,222,Southern Illinois,153,Murray State,69,0
+401634197,2024,1,102,Iowa State,167,North Dakota,21,3
+401634198,2024,2,167,North Dakota,149,Montana,27,24
+401634199,2024,3,167,North Dakota,94,Idaho State,52,28
+401634200,2024,4,167,North Dakota,208,San Diego,41,24
+401634201,2024,6,168,North Dakota State,167,North Dakota,41,17
+401634202,2024,8,167,North Dakota,174,Northern Iowa,31,7
+401634203,2024,9,298,Youngstown State,167,North Dakota,41,40
+401634204,2024,11,167,North Dakota,218,South Dakota State,7,38
+401634205,2024,12,167,North Dakota,217,South Dakota,36,42
+401634206,2024,1,48,Colorado,168,North Dakota State,31,26
+401634207,2024,2,168,North Dakota State,238,Tennessee State,52,3
+401634208,2024,7,222,Southern Illinois,168,North Dakota State,3,24
+401634209,2024,8,168,North Dakota State,218,South Dakota State,13,9
+401634210,2024,10,168,North Dakota State,174,Northern Iowa,7,0
+401634211,2024,13,217,South Dakota,168,North Dakota State,29,28
+401634212,2024,1,182,Oklahoma State,218,South Dakota State,44,20
+401634213,2024,2,218,South Dakota State,97,Incarnate Word,45,24
+401634214,2024,3,218,South Dakota State,15,Augustana University (SD),31,3
+401634215,2024,4,202,SE Louisiana,218,South Dakota State,0,41
+401634216,2024,6,174,Northern Iowa,218,South Dakota State,3,47
+401634217,2024,7,218,South Dakota State,298,Youngstown State,63,13
+401634218,2024,9,218,South Dakota State,217,South Dakota,20,17
+401634239,2024,12,218,South Dakota State,222,Southern Illinois,41,10
+401634240,2024,1,18,BYU,222,Southern Illinois,41,13
+401634241,2024,3,222,Southern Illinois,97,Incarnate Word,35,28
+401634242,2024,4,222,Southern Illinois,220,Southeast Missouri State,21,38
+401634243,2024,5,217,South Dakota,222,Southern Illinois,42,13
+401634244,2024,11,222,Southern Illinois,298,Youngstown State,37,33
+401634245,2024,2,298,Youngstown State,270,Valparaiso,59,25
+401634246,2024,3,298,Youngstown State,59,Duquesne,17,28
+401634247,2024,4,189,Pittsburgh,298,Youngstown State,73,17
+401634248,2024,8,298,Youngstown State,217,South Dakota,17,27
+401634249,2024,12,298,Youngstown State,174,Northern Iowa,41,38
+401634250,2024,2,4,Alabama A&M,112,Kentucky State,49,7
+401634252,2024,14,70,Florida A&M,4,Alabama A&M,28,20
+401634253,2024,6,103,Jackson State,4,Alabama A&M,45,38
+401634254,2024,7,4,Alabama A&M,21,Bethune-Cookman,56,12
+401634256,2024,10,4,Alabama A&M,221,Southern,20,25
+401634257,2024,11,12,Arkansas-Pine Bluff,4,Alabama A&M,24,52
+401634258,2024,12,4,Alabama A&M,84,Grambling,22,17
+401634259,2024,13,145,Mississippi Valley State,4,Alabama A&M,35,49
+401634299,2024,1,154,NC State,287,Western Carolina,38,21
+401634300,2024,1,228,Stanford,234,TCU,27,34
+401634301,2024,1,32,California,254,UC Davis,14,13
+401634302,2024,1,83,Georgia Tech,82,Georgia State,35,12
+401634303,2024,1,203,SMU,91,Houston Christian,59,7
+401634304,2024,1,233,Syracuse,179,Ohio,38,22
+401634305,2024,1,189,Pittsburgh,109,Kent State,55,24
+401634306,2024,1,73,Florida State,24,Boston College,13,28
+401634765,2024,2,203,SMU,18,BYU,15,18
+401634766,2024,4,233,Syracuse,228,Stanford,24,26
+401634767,2024,5,137,Miami,275,Virginia Tech,38,34
+401634768,2024,8,275,Virginia Tech,24,Boston College,42,21
+401634769,2024,8,58,Duke,73,Florida State,23,16
+401634770,2024,9,189,Pittsburgh,233,Syracuse,41,13
+401634771,2024,9,24,Boston College,125,Louisville,27,31
+401634772,2024,13,83,Georgia Tech,154,NC State,30,29
+401634773,2024,11,279,Wake Forest,32,California,36,46
+401634779,2024,6,259,UNLV,233,Syracuse,41,44
+401635516,2024,10,154,NC State,228,Stanford,59,28
+401635517,2024,12,228,Stanford,125,Louisville,38,35
+401635518,2024,13,233,Syracuse,257,UConn,31,24
+401635525,2024,1,83,Georgia Tech,73,Florida State,24,21
+401635531,2024,2,24,Boston College,59,Duquesne,56,0
+401635532,2024,2,45,Clemson,7,App State,66,20
+401635533,2024,2,176,Northwestern,58,Duke,20,26
+401635534,2024,2,233,Syracuse,83,Georgia Tech,31,28
+401635535,2024,2,125,Louisville,104,Jacksonville State,49,14
+401635536,2024,2,137,Miami,70,Florida A&M,56,9
+401635537,2024,2,164,North Carolina,41,Charlotte,38,20
+401635538,2024,2,43,Cincinnati,189,Pittsburgh,27,28
+401635539,2024,2,228,Stanford,31,Cal Poly,41,7
+401635540,2024,2,275,Virginia Tech,128,Marshall,31,14
+401635541,2024,3,32,California,209,San Diego State,31,10
+401635542,2024,3,73,Florida State,133,Memphis,12,20
+401635543,2024,3,83,Georgia Tech,269,VMI,59,7
+401635544,2024,3,137,Miami,19,Ball State,62,0
+401635545,2024,3,164,North Carolina,166,North Carolina Central,45,10
+401635546,2024,3,154,NC State,124,Louisiana Tech,30,20
+401635547,2024,3,189,Pittsburgh,285,West Virginia,38,34
+401635548,2024,3,183,Old Dominion,275,Virginia Tech,17,37
+401635551,2024,4,73,Florida State,32,California,14,9
+401635552,2024,4,45,Clemson,154,NC State,59,35
+401635553,2024,4,141,Middle Tennessee,58,Duke,17,45
+401635554,2024,4,125,Louisville,83,Georgia Tech,45,19
+401635555,2024,4,219,South Florida,137,Miami,15,50
+401635556,2024,4,164,North Carolina,105,James Madison,50,70
+401635557,2024,4,203,SMU,234,TCU,66,42
+401635558,2024,4,46,Coastal Carolina,273,Virginia,24,43
+401635560,2024,5,24,Boston College,289,Western Kentucky,21,20
+401635561,2024,5,45,Clemson,228,Stanford,40,14
+401635562,2024,5,58,Duke,164,North Carolina,21,20
+401635563,2024,5,203,SMU,73,Florida State,42,16
+401635564,2024,5,154,NC State,173,Northern Illinois,24,17
+401635565,2024,5,233,Syracuse,89,Holy Cross,42,14
+401635567,2024,6,273,Virginia,24,Boston College,24,14
+401635568,2024,6,32,California,137,Miami,38,39
+401635569,2024,6,73,Florida State,45,Clemson,13,29
+401635570,2024,6,83,Georgia Tech,58,Duke,24,14
+401635571,2024,6,125,Louisville,203,SMU,27,34
+401635572,2024,6,164,North Carolina,189,Pittsburgh,24,34
+401635573,2024,6,228,Stanford,275,Virginia Tech,7,31
+401635574,2024,7,154,NC State,233,Syracuse,17,24
+401635575,2024,7,189,Pittsburgh,32,California,17,15
+401635576,2024,7,279,Wake Forest,45,Clemson,14,49
+401635577,2024,7,164,North Carolina,83,Georgia Tech,34,41
+401635578,2024,7,273,Virginia,125,Louisville,20,24
+401635580,2024,12,203,SMU,24,Boston College,38,28
+401635581,2024,12,32,California,233,Syracuse,25,33
+401635582,2024,12,189,Pittsburgh,45,Clemson,20,24
+401635583,2024,12,164,North Carolina,279,Wake Forest,31,24
+401635587,2024,8,32,California,154,NC State,23,24
+401635588,2024,8,45,Clemson,273,Virginia,48,31
+401635589,2024,8,125,Louisville,137,Miami,45,52
+401635590,2024,8,228,Stanford,203,SMU,10,40
+401635594,2024,9,32,California,186,Oregon State,44,7
+401635595,2024,9,58,Duke,203,SMU,27,28
+401635596,2024,9,137,Miami,73,Florida State,36,14
+401635597,2024,9,275,Virginia Tech,83,Georgia Tech,21,6
+401635598,2024,9,273,Virginia,164,North Carolina,14,41
+401635599,2024,9,228,Stanford,279,Wake Forest,24,27
+401635600,2024,10,45,Clemson,125,Louisville,21,33
+401635601,2024,10,137,Miami,58,Duke,53,31
+401635602,2024,10,73,Florida State,164,North Carolina,11,35
+401635604,2024,10,233,Syracuse,275,Virginia Tech,38,31
+401635606,2024,11,24,Boston College,233,Syracuse,37,31
+401635607,2024,11,275,Virginia Tech,45,Clemson,14,24
+401635608,2024,11,154,NC State,58,Duke,19,29
+401635609,2024,11,83,Georgia Tech,137,Miami,28,23
+401635610,2024,11,189,Pittsburgh,273,Virginia,19,24
+401635612,2024,13,24,Boston College,164,North Carolina,41,21
+401635613,2024,13,32,California,228,Stanford,24,21
+401635614,2024,13,45,Clemson,245,The Citadel,51,14
+401635615,2024,13,58,Duke,275,Virginia Tech,31,28
+401635616,2024,13,73,Florida State,40,Charleston Southern,41,7
+401635617,2024,13,125,Louisville,189,Pittsburgh,37,9
+401635618,2024,13,137,Miami,279,Wake Forest,42,14
+401635619,2024,13,273,Virginia,203,SMU,7,33
+401635620,2024,14,24,Boston College,189,Pittsburgh,34,23
+401635621,2024,14,203,SMU,32,California,38,6
+401635622,2024,14,279,Wake Forest,58,Duke,17,23
+401635623,2024,14,233,Syracuse,137,Miami,42,38
+401635624,2024,14,164,North Carolina,154,NC State,30,35
+401635625,2024,14,210,San JosÃ© State,228,Stanford,34,31
+401635627,2024,10,203,SMU,189,Pittsburgh,48,25
+401635638,2024,6,154,NC State,279,Wake Forest,30,34
+401635639,2024,2,279,Wake Forest,273,Virginia,30,31
+401635640,2024,14,275,Virginia Tech,273,Virginia,37,17
+401635659,2024,5,279,Wake Forest,123,Louisiana,38,41
+401636343,2024,1,5,Alabama State,166,North Carolina Central,24,31
+401636344,2024,2,5,Alabama State,142,Miles College,24,3
+401636345,2024,3,207,Samford,5,Alabama State,12,7
+401636346,2024,5,21,Bethune-Cookman,5,Alabama State,21,26
+401636347,2024,6,5,Alabama State,70,Florida A&M,13,28
+401636348,2024,7,5,Alabama State,145,Mississippi Valley State,54,17
+401636350,2024,11,84,Grambling,5,Alabama State,24,23
+401636351,2024,12,5,Alabama State,103,Jackson State,10,16
+401636352,2024,13,5,Alabama State,192,Prairie View A&M,9,6
+401636353,2024,14,5,Alabama State,251,Tuskegee,34,6
+401636354,2024,2,12,Arkansas-Pine Bluff,121,Little Rock,59,0
+401636355,2024,3,238,Tennessee State,12,Arkansas-Pine Bluff,38,21
+401636357,2024,7,12,Arkansas-Pine Bluff,192,Prairie View A&M,21,17
+401636358,2024,8,84,Grambling,12,Arkansas-Pine Bluff,31,21
+401636359,2024,9,12,Arkansas-Pine Bluff,145,Mississippi Valley State,35,21
+401636360,2024,10,103,Jackson State,12,Arkansas-Pine Bluff,41,3
+401636361,2024,12,221,Southern,12,Arkansas-Pine Bluff,31,9
+401636362,2024,13,12,Arkansas-Pine Bluff,242,Texas Southern,23,31
+401636363,2024,1,219,South Florida,21,Bethune-Cookman,48,3
+401636364,2024,3,290,Western Michigan,21,Bethune-Cookman,59,31
+401636365,2024,4,21,Bethune-Cookman,44,Clark Atlanta,37,38
+401636366,2024,8,145,Mississippi Valley State,21,Bethune-Cookman,10,20
+401636367,2024,9,21,Bethune-Cookman,103,Jackson State,17,40
+401636368,2024,10,21,Bethune-Cookman,84,Grambling,24,21
+401636370,2024,12,242,Texas Southern,21,Bethune-Cookman,17,7
+401636371,2024,13,21,Bethune-Cookman,70,Florida A&M,38,41
+401636372,2024,1,162,Norfolk State,70,Florida A&M,23,24
+401636373,2024,1,70,Florida A&M,216,South Carolina State,22,18
+401636374,2024,4,248,Troy,70,Florida A&M,34,12
+401636375,2024,8,103,Jackson State,70,Florida A&M,35,21
+401636376,2024,9,70,Florida A&M,221,Southern,24,6
+401636378,2024,11,192,Prairie View A&M,70,Florida A&M,31,12
+401636379,2024,12,70,Florida A&M,145,Mississippi Valley State,21,24
+401636380,2024,1,123,Louisiana,84,Grambling,40,10
+401636381,2024,2,84,Grambling,251,Tuskegee,37,20
+401636382,2024,4,84,Grambling,103,Jackson State,41,20
+401636384,2024,7,84,Grambling,6,Alcorn State,15,17
+401636385,2024,9,242,Texas Southern,84,Grambling,24,17
+401636386,2024,14,221,Southern,84,Grambling,24,14
+401636387,2024,1,258,UL Monroe,103,Jackson State,30,14
+401636388,2024,2,103,Jackson State,116,Lane College,58,7
+401636389,2024,3,103,Jackson State,221,Southern,33,15
+401636391,2024,11,103,Jackson State,145,Mississippi Valley State,51,14
+401636392,2024,13,6,Alcorn State,103,Jackson State,10,48
+401636606,2024,1,106,Kansas,120,Lindenwood,48,3
+401636607,2024,1,266,Utah,224,Southern Utah,49,0
+401636608,2024,1,8,Arizona,159,New Mexico,61,39
+401636609,2024,1,9,Arizona State,296,Wyoming,48,7
+401636610,2024,1,20,Baylor,235,Tarleton State,45,3
+401636611,2024,1,90,Houston,259,UNLV,7,27
+401636612,2024,1,107,Kansas State,261,UT Martin,41,6
+401636613,2024,1,244,Texas Tech,0,Abilene Christian,52,51
+401636614,2024,2,8,Arizona,171,Northern Arizona,22,10
+401636615,2024,2,234,TCU,122,Long Island University,45,0
+401636616,2024,2,249,Tulane,107,Kansas State,27,34
+401636617,2024,2,255,UCF,206,Sam Houston,45,14
+401636618,2024,2,266,Utah,20,Baylor,23,12
+401636859,2024,2,282,Washington State,244,Texas Tech,37,16
+401636860,2024,3,20,Baylor,1,Air Force,31,3
+401636861,2024,3,49,Colorado State,48,Colorado,9,28
+401636862,2024,3,90,Houston,197,Rice,33,7
+401636863,2024,3,106,Kansas,259,UNLV,20,23
+401636864,2024,3,107,Kansas State,8,Arizona,31,7
+401636865,2024,3,138,Miami (OH),43,Cincinnati,16,27
+401636866,2024,3,234,TCU,255,UCF,34,35
+401636867,2024,3,243,Texas State,9,Arizona State,28,31
+401636868,2024,3,244,Texas Tech,170,North Texas,17,14
+401636869,2024,3,250,Tulsa,182,Oklahoma State,10,45
+401636870,2024,3,267,Utah State,266,Utah,21,38
+401636871,2024,3,296,Wyoming,18,BYU,14,34
+401636872,2024,4,18,BYU,107,Kansas State,38,9
+401636873,2024,4,43,Cincinnati,90,Houston,34,0
+401636874,2024,4,48,Colorado,20,Baylor,38,31
+401636875,2024,4,102,Iowa State,11,Arkansas State,52,7
+401636876,2024,4,182,Oklahoma State,266,Utah,19,22
+401636877,2024,4,244,Texas Tech,9,Arizona State,30,22
+401636879,2024,4,285,West Virginia,106,Kansas,32,28
+401636880,2024,5,20,Baylor,18,BYU,28,34
+401636881,2024,5,90,Houston,102,Iowa State,0,20
+401636882,2024,5,106,Kansas,234,TCU,27,38
+401636883,2024,5,107,Kansas State,182,Oklahoma State,42,20
+401636884,2024,5,244,Texas Tech,43,Cincinnati,44,41
+401636885,2024,5,255,UCF,48,Colorado,21,48
+401636886,2024,5,266,Utah,8,Arizona,10,23
+401636887,2024,6,8,Arizona,244,Texas Tech,22,28
+401636888,2024,6,9,Arizona State,106,Kansas,35,31
+401636889,2024,6,102,Iowa State,20,Baylor,43,21
+401636890,2024,6,182,Oklahoma State,285,West Virginia,14,38
+401636891,2024,6,234,TCU,90,Houston,19,30
+401636892,2024,7,9,Arizona State,266,Utah,27,19
+401636893,2024,7,18,BYU,8,Arizona,41,19
+401636894,2024,7,48,Colorado,107,Kansas State,28,31
+401636895,2024,7,255,UCF,43,Cincinnati,13,19
+401636896,2024,7,285,West Virginia,102,Iowa State,16,28
+401636897,2024,8,8,Arizona,48,Colorado,7,34
+401636898,2024,8,18,BYU,182,Oklahoma State,38,35
+401636899,2024,8,43,Cincinnati,9,Arizona State,24,14
+401636900,2024,8,102,Iowa State,255,UCF,38,35
+401636901,2024,8,106,Kansas,90,Houston,42,14
+401636902,2024,8,244,Texas Tech,20,Baylor,35,59
+401636903,2024,8,266,Utah,234,TCU,7,13
+401636904,2024,8,285,West Virginia,107,Kansas State,18,45
+401636905,2024,9,8,Arizona,285,West Virginia,26,31
+401636906,2024,9,20,Baylor,182,Oklahoma State,38,28
+401636907,2024,9,48,Colorado,43,Cincinnati,34,23
+401636908,2024,9,90,Houston,266,Utah,17,14
+401636909,2024,9,107,Kansas State,106,Kansas,29,27
+401636910,2024,9,234,TCU,244,Texas Tech,35,34
+401636911,2024,9,255,UCF,18,BYU,24,37
+401636912,2024,10,20,Baylor,234,TCU,37,34
+401636913,2024,10,90,Houston,107,Kansas State,24,19
+401636914,2024,10,102,Iowa State,244,Texas Tech,22,23
+401636915,2024,10,182,Oklahoma State,9,Arizona State,21,42
+401636916,2024,10,255,UCF,8,Arizona,56,12
+401636917,2024,11,9,Arizona State,255,UCF,35,31
+401636918,2024,11,43,Cincinnati,285,West Virginia,24,31
+401636919,2024,11,106,Kansas,102,Iowa State,45,36
+401636920,2024,11,234,TCU,182,Oklahoma State,38,13
+401636921,2024,11,244,Texas Tech,48,Colorado,27,41
+401636922,2024,11,266,Utah,18,BYU,21,22
+401636923,2024,12,8,Arizona,90,Houston,27,3
+401636924,2024,12,18,BYU,106,Kansas,13,17
+401636925,2024,12,48,Colorado,266,Utah,49,24
+401636926,2024,12,102,Iowa State,43,Cincinnati,34,17
+401636927,2024,12,107,Kansas State,9,Arizona State,14,24
+401636929,2024,12,285,West Virginia,20,Baylor,35,49
+401636930,2024,13,9,Arizona State,18,BYU,28,23
+401636931,2024,13,90,Houston,20,Baylor,10,20
+401636932,2024,13,106,Kansas,48,Colorado,37,21
+401636933,2024,13,107,Kansas State,43,Cincinnati,41,15
+401636934,2024,13,182,Oklahoma State,244,Texas Tech,48,56
+401636935,2024,13,234,TCU,8,Arizona,49,28
+401636936,2024,13,266,Utah,102,Iowa State,28,31
+401636937,2024,13,285,West Virginia,255,UCF,31,21
+401636938,2024,14,48,Colorado,182,Oklahoma State,52,0
+401636939,2024,14,255,UCF,266,Utah,14,28
+401636940,2024,14,8,Arizona,9,Arizona State,7,49
+401636941,2024,14,20,Baylor,106,Kansas,45,17
+401636942,2024,14,18,BYU,90,Houston,30,18
+401636943,2024,14,43,Cincinnati,234,TCU,13,20
+401636944,2024,14,102,Iowa State,107,Kansas State,29,21
+401636945,2024,14,244,Texas Tech,285,West Virginia,52,15
+401636999,2024,2,257,UConn,136,Merrimack,63,14
+401637159,2024,1,282,Washington State,191,Portland State,70,30
+401637160,2024,2,283,Weber State,191,Portland State,37,16
+401637162,2024,4,23,Boise State,191,Portland State,56,14
+401638342,2024,6,207,Samford,269,VMI,27,3
+401638343,2024,6,245,The Citadel,76,Furman,16,17
+401638344,2024,7,287,Western Carolina,245,The Citadel,30,16
+401638345,2024,8,76,Furman,287,Western Carolina,20,52
+401638346,2024,8,269,VMI,245,The Citadel,10,13
+401638347,2024,9,245,The Citadel,207,Samford,28,19
+401638348,2024,10,269,VMI,76,Furman,21,17
+401638349,2024,12,287,Western Carolina,269,VMI,58,28
+401638350,2024,13,207,Samford,287,Western Carolina,42,47
+401638359,2024,1,97,Incarnate Word,172,Northern Colorado,28,7
+401638361,2024,6,97,Incarnate Word,192,Prairie View A&M,56,28
+401638659,2024,5,193,Presbyterian,53,Davidson,48,37
+401638660,2024,5,127,Marist,54,Dayton,14,47
+401638661,2024,5,57,Drake,208,San Diego,30,28
+401638662,2024,5,151,Morehead State,270,Valparaiso,17,5
+401638663,2024,6,270,Valparaiso,57,Drake,3,27
+401638664,2024,6,53,Davidson,127,Marist,42,19
+401638665,2024,6,30,Butler,151,Morehead State,33,0
+401638666,2024,6,208,San Diego,193,Presbyterian,21,21
+401638668,2024,7,57,Drake,30,Butler,27,17
+401638669,2024,7,54,Dayton,53,Davidson,16,14
+401638670,2024,7,151,Morehead State,193,Presbyterian,14,7
+401638671,2024,7,127,Marist,227,St. Thomas (MN),12,15
+401638673,2024,8,30,Butler,54,Dayton,14,21
+401638674,2024,8,193,Presbyterian,57,Drake,16,19
+401638675,2024,8,208,San Diego,127,Marist,34,6
+401638676,2024,8,53,Davidson,230,Stetson,70,48
+401638677,2024,8,270,Valparaiso,227,St. Thomas (MN),14,42
+401638678,2024,9,53,Davidson,30,Butler,38,48
+401638679,2024,9,54,Dayton,151,Morehead State,6,14
+401638680,2024,9,230,Stetson,193,Presbyterian,14,42
+401638681,2024,9,227,St. Thomas (MN),208,San Diego,34,14
+401638682,2024,9,127,Marist,270,Valparaiso,14,17
+401638683,2024,10,208,San Diego,53,Davidson,40,13
+401638684,2024,10,193,Presbyterian,54,Dayton,28,7
+401638685,2024,10,57,Drake,127,Marist,19,0
+401638686,2024,10,30,Butler,230,Stetson,46,13
+401638687,2024,10,151,Morehead State,227,St. Thomas (MN),21,7
+401638688,2024,11,270,Valparaiso,30,Butler,17,24
+401638689,2024,11,227,St. Thomas (MN),57,Drake,19,22
+401638690,2024,11,230,Stetson,127,Marist,31,40
+401638691,2024,11,53,Davidson,151,Morehead State,31,14
+401638692,2024,11,54,Dayton,208,San Diego,10,16
+401638693,2024,12,57,Drake,151,Morehead State,20,23
+401638694,2024,12,127,Marist,193,Presbyterian,23,42
+401638695,2024,12,208,San Diego,230,Stetson,45,6
+401638696,2024,12,30,Butler,227,St. Thomas (MN),23,14
+401638697,2024,12,54,Dayton,270,Valparaiso,26,14
+401638698,2024,13,193,Presbyterian,30,Butler,30,27
+401638699,2024,13,270,Valparaiso,53,Davidson,10,17
+401638700,2024,13,227,St. Thomas (MN),54,Dayton,32,9
+401638701,2024,13,230,Stetson,57,Drake,10,49
+401638702,2024,13,151,Morehead State,208,San Diego,14,37
+401640959,2024,13,178,Notre Dame,13,Army,49,14
+401640979,2024,2,72,Florida International,37,Central Michigan,52,16
+401640980,2024,3,71,Florida Atlantic,72,Florida International,38,20
+401640981,2024,5,72,Florida International,124,Louisiana Tech,17,10
+401640982,2024,7,118,Liberty,72,Florida International,32,24
+401640983,2024,8,262,UTEP,72,Florida International,30,21
+401640984,2024,9,72,Florida International,206,Sam Houston,7,10
+401640985,2024,10,72,Florida International,160,New Mexico State,34,13
+401640986,2024,12,104,Jacksonville State,72,Florida International,34,31
+401640987,2024,13,108,Kennesaw State,72,Florida International,27,26
+401640988,2024,14,72,Florida International,141,Middle Tennessee,35,24
+401640989,2024,2,160,New Mexico State,118,Liberty,24,30
+401640990,2024,3,118,Liberty,262,UTEP,28,10
+401640991,2024,4,118,Liberty,60,East Carolina,35,24
+401640993,2024,9,108,Kennesaw State,118,Liberty,27,24
+401640994,2024,10,118,Liberty,104,Jacksonville State,21,31
+401640995,2024,11,141,Middle Tennessee,118,Liberty,17,37
+401640996,2024,13,118,Liberty,289,Western Kentucky,38,21
+401640997,2024,14,206,Sam Houston,118,Liberty,20,18
+401640998,2024,1,104,Jacksonville State,46,Coastal Carolina,27,55
+401640999,2024,3,65,Eastern Michigan,104,Jacksonville State,37,34
+401641000,2024,4,104,Jacksonville State,223,Southern Miss,44,7
+401641001,2024,6,108,Kennesaw State,104,Jacksonville State,24,63
+401641002,2024,7,104,Jacksonville State,160,New Mexico State,54,13
+401641003,2024,9,104,Jacksonville State,141,Middle Tennessee,42,20
+401641004,2024,11,124,Louisiana Tech,104,Jacksonville State,37,44
+401641005,2024,13,104,Jacksonville State,206,Sam Houston,21,11
+401641006,2024,14,289,Western Kentucky,104,Jacksonville State,19,17
+401641007,2024,1,124,Louisiana Tech,161,Nicholls,25,17
+401641008,2024,4,124,Louisiana Tech,250,Tulsa,20,23
+401641009,2024,7,124,Louisiana Tech,141,Middle Tennessee,48,21
+401641010,2024,8,160,New Mexico State,124,Louisiana Tech,27,30
+401641011,2024,9,124,Louisiana Tech,262,UTEP,14,10
+401641012,2024,10,206,Sam Houston,124,Louisiana Tech,9,3
+401641013,2024,12,289,Western Kentucky,124,Louisiana Tech,7,12
+401641014,2024,14,124,Louisiana Tech,108,Kennesaw State,33,0
+401641015,2024,1,263,UTSA,108,Kennesaw State,28,16
+401641016,2024,2,108,Kennesaw State,123,Louisiana,10,34
+401641017,2024,3,210,San JosÃ© State,108,Kennesaw State,31,10
+401641018,2024,5,108,Kennesaw State,261,UT Martin,13,24
+401641019,2024,8,141,Middle Tennessee,108,Kennesaw State,14,5
+401641020,2024,10,289,Western Kentucky,108,Kennesaw State,31,14
+401641021,2024,11,262,UTEP,108,Kennesaw State,28,35
+401641022,2024,12,108,Kennesaw State,206,Sam Houston,17,23
+401641023,2024,1,141,Middle Tennessee,239,Tennessee Tech,32,25
+401641024,2024,3,141,Middle Tennessee,289,Western Kentucky,21,49
+401641025,2024,5,133,Memphis,141,Middle Tennessee,24,7
+401641026,2024,10,262,UTEP,141,Middle Tennessee,13,20
+401641027,2024,13,141,Middle Tennessee,160,New Mexico State,21,36
+401641028,2024,4,49,Colorado State,262,UTEP,27,17
+401641029,2024,6,262,UTEP,206,Sam Houston,21,41
+401641030,2024,7,289,Western Kentucky,262,UTEP,44,17
+401641031,2024,14,160,New Mexico State,262,UTEP,35,42
+401641032,2024,1,160,New Mexico State,220,Southeast Missouri State,23,16
+401641033,2024,3,75,Fresno State,160,New Mexico State,48,0
+401641034,2024,4,206,Sam Houston,160,New Mexico State,21,41
+401641035,2024,5,160,New Mexico State,159,New Mexico,40,50
+401641036,2024,11,160,New Mexico State,289,Western Kentucky,28,41
+401641037,2024,4,289,Western Kentucky,246,Toledo,26,21
+401641038,2024,8,206,Sam Houston,289,Western Kentucky,14,31
+401641039,2024,1,197,Rice,206,Sam Houston,14,34
+401641040,2024,3,206,Sam Houston,88,Hawai'i,31,13
+401641041,2024,5,206,Sam Houston,243,Texas State,40,39
+401643696,2024,1,157,Nevada,203,SMU,24,29
+401643697,2024,1,159,New Mexico,150,Montana State,31,35
+401643698,2024,1,210,San JosÃ© State,204,Sacramento State,42,24
+401643699,2024,1,1,Air Force,136,Merrimack,21,6
+401643700,2024,1,81,Georgia Southern,23,Boise State,45,56
+401643701,2024,1,248,Troy,157,Nevada,26,28
+401643702,2024,1,209,San Diego State,62,East Texas A&M,45,14
+401643703,2024,1,267,Utah State,199,Robert Morris,36,14
+401643704,2024,1,186,Oregon State,94,Idaho State,38,15
+401643705,2024,2,1,Air Force,210,San JosÃ© State,7,17
+401643706,2024,2,49,Colorado State,172,Northern Colorado,38,17
+401643707,2024,2,75,Fresno State,204,Sacramento State,46,30
+401643708,2024,2,157,Nevada,81,Georgia Southern,17,20
+401643709,2024,2,209,San Diego State,186,Oregon State,0,21
+401643710,2024,2,296,Wyoming,93,Idaho,13,17
+401643711,2024,4,159,New Mexico,75,Fresno State,21,38
+401643712,2024,4,88,Hawai'i,174,Northern Iowa,36,7
+401643713,2024,4,157,Nevada,66,Eastern Washington,49,16
+401643714,2024,4,282,Washington State,210,San JosÃ© State,54,52
+401643715,2024,4,236,Temple,267,Utah State,45,29
+401643716,2024,4,170,North Texas,296,Wyoming,44,17
+401643717,2024,4,186,Oregon State,195,Purdue,38,21
+401643718,2024,5,296,Wyoming,1,Air Force,31,19
+401643719,2024,5,23,Boise State,282,Washington State,45,24
+401643720,2024,5,259,UNLV,75,Fresno State,59,14
+401643721,2024,5,37,Central Michigan,209,San Diego State,22,21
+401643722,2024,6,1,Air Force,155,Navy,7,34
+401643723,2024,6,23,Boise State,267,Utah State,62,30
+401643724,2024,6,186,Oregon State,49,Colorado State,39,31
+401643725,2024,6,209,San Diego State,88,Hawai'i,27,24
+401643726,2024,6,210,San JosÃ© State,157,Nevada,35,31
+401643727,2024,7,159,New Mexico,1,Air Force,52,37
+401643728,2024,7,88,Hawai'i,23,Boise State,7,28
+401643729,2024,7,49,Colorado State,210,San JosÃ© State,31,24
+401643730,2024,7,75,Fresno State,282,Washington State,17,25
+401643731,2024,7,157,Nevada,186,Oregon State,42,37
+401643732,2024,7,296,Wyoming,209,San Diego State,24,27
+401643733,2024,7,267,Utah State,259,UNLV,34,50
+401643734,2024,8,1,Air Force,49,Colorado State,13,21
+401643735,2024,8,157,Nevada,75,Fresno State,21,24
+401643736,2024,8,282,Washington State,88,Hawai'i,42,10
+401643737,2024,8,267,Utah State,159,New Mexico,14,0
+401643738,2024,8,210,San JosÃ© State,296,Wyoming,24,14
+401643739,2024,8,186,Oregon State,259,UNLV,25,33
+401643740,2024,9,259,UNLV,23,Boise State,24,29
+401643741,2024,9,49,Colorado State,159,New Mexico,17,6
+401643742,2024,9,75,Fresno State,210,San JosÃ© State,33,10
+401643743,2024,9,88,Hawai'i,157,Nevada,34,13
+401643744,2024,9,209,San Diego State,282,Washington State,26,29
+401643745,2024,9,296,Wyoming,267,Utah State,25,27
+401643746,2024,10,13,Army,1,Air Force,20,3
+401643747,2024,10,23,Boise State,209,San Diego State,56,24
+401643748,2024,10,157,Nevada,49,Colorado State,21,38
+401643749,2024,10,75,Fresno State,88,Hawai'i,20,21
+401643750,2024,10,159,New Mexico,296,Wyoming,45,49
+401643751,2024,11,1,Air Force,75,Fresno State,36,28
+401643752,2024,11,23,Boise State,157,Nevada,28,21
+401643753,2024,11,88,Hawai'i,259,UNLV,27,29
+401643754,2024,11,209,San Diego State,159,New Mexico,16,21
+401643755,2024,11,186,Oregon State,210,San JosÃ© State,13,24
+401643756,2024,11,282,Washington State,267,Utah State,49,28
+401643757,2024,12,1,Air Force,186,Oregon State,28,0
+401643758,2024,12,210,San JosÃ© State,23,Boise State,21,42
+401643759,2024,12,49,Colorado State,296,Wyoming,24,10
+401643760,2024,12,267,Utah State,88,Hawai'i,58,10
+401643761,2024,12,159,New Mexico,282,Washington State,38,35
+401643762,2024,12,259,UNLV,209,San Diego State,41,20
+401643763,2024,13,157,Nevada,1,Air Force,19,22
+401643764,2024,13,296,Wyoming,23,Boise State,13,17
+401643765,2024,13,75,Fresno State,49,Colorado State,28,22
+401643766,2024,13,267,Utah State,209,San Diego State,41,20
+401643767,2024,13,210,San JosÃ© State,259,UNLV,16,27
+401643768,2024,14,209,San Diego State,1,Air Force,20,31
+401643769,2024,14,23,Boise State,186,Oregon State,34,18
+401643770,2024,14,49,Colorado State,267,Utah State,42,37
+401643771,2024,14,88,Hawai'i,159,New Mexico,38,30
+401643772,2024,14,259,UNLV,157,Nevada,38,14
+401643773,2024,14,282,Washington State,296,Wyoming,14,15
+401643774,2024,1,41,Charlotte,105,James Madison,7,30
+401643775,2024,1,214,South Alabama,170,North Texas,38,52
+401643776,2024,1,243,Texas State,115,Lamar,34,27
+401643777,2024,2,105,James Madison,77,Gardner-Webb,13,6
+401643778,2024,2,183,Old Dominion,60,East Carolina,14,20
+401643779,2024,2,11,Arkansas State,250,Tulsa,28,24
+401643780,2024,2,258,UL Monroe,252,UAB,32,6
+401643781,2024,2,179,Ohio,214,South Alabama,27,20
+401643782,2024,2,223,Southern Miss,202,SE Louisiana,35,10
+401643783,2024,2,243,Texas State,263,UTSA,49,10
+401643784,2024,2,133,Memphis,248,Troy,38,17
+401643785,2024,3,60,East Carolina,7,App State,19,21
+401643786,2024,3,236,Temple,46,Coastal Carolina,20,28
+401643787,2024,3,81,Georgia Southern,216,South Carolina State,42,14
+401643788,2024,3,214,South Alabama,177,Northwestern State,87,10
+401643789,2024,3,223,Southern Miss,219,South Florida,24,49
+401643790,2024,4,7,App State,214,South Alabama,14,48
+401643791,2024,4,123,Louisiana,249,Tulane,33,41
+401643792,2024,5,82,Georgia State,81,Georgia Southern,21,38
+401643793,2024,5,105,James Madison,19,Ball State,63,7
+401643794,2024,5,128,Marshall,290,Western Michigan,27,20
+401643795,2024,5,25,Bowling Green,183,Old Dominion,27,30
+401643796,2024,5,248,Troy,258,UL Monroe,9,13
+401643797,2024,6,248,Troy,243,Texas State,17,38
+401643798,2024,6,46,Coastal Carolina,183,Old Dominion,45,37
+401643799,2024,6,128,Marshall,7,App State,52,37
+401643800,2024,6,11,Arkansas State,214,South Alabama,18,16
+401643801,2024,6,258,UL Monroe,105,James Madison,21,19
+401643802,2024,6,223,Southern Miss,123,Louisiana,13,23
+401643803,2024,7,105,James Madison,46,Coastal Carolina,39,7
+401643804,2024,7,81,Georgia Southern,128,Marshall,24,23
+401643805,2024,7,82,Georgia State,183,Old Dominion,14,21
+401643806,2024,7,123,Louisiana,7,App State,34,24
+401643807,2024,7,258,UL Monroe,223,Southern Miss,38,21
+401643808,2024,7,243,Texas State,11,Arkansas State,41,9
+401643809,2024,8,214,South Alabama,248,Troy,25,9
+401643810,2024,8,128,Marshall,82,Georgia State,35,20
+401643811,2024,8,46,Coastal Carolina,123,Louisiana,24,34
+401643812,2024,8,81,Georgia Southern,105,James Madison,28,14
+401643813,2024,8,183,Old Dominion,243,Texas State,24,14
+401643814,2024,8,223,Southern Miss,11,Arkansas State,28,44
+401643815,2024,9,183,Old Dominion,81,Georgia Southern,47,19
+401643816,2024,9,7,App State,82,Georgia State,33,26
+401643817,2024,9,105,James Madison,223,Southern Miss,32,15
+401643818,2024,9,11,Arkansas State,248,Troy,34,31
+401643819,2024,9,214,South Alabama,258,UL Monroe,46,17
+401643820,2024,10,243,Texas State,123,Louisiana,17,23
+401643821,2024,10,7,App State,183,Old Dominion,28,20
+401643822,2024,10,128,Marshall,258,UL Monroe,28,23
+401643823,2024,10,214,South Alabama,81,Georgia Southern,30,34
+401643824,2024,10,248,Troy,46,Coastal Carolina,38,24
+401643825,2024,11,46,Coastal Carolina,7,App State,38,24
+401643826,2024,11,105,James Madison,82,Georgia State,38,7
+401643827,2024,11,123,Louisiana,11,Arkansas State,55,19
+401643828,2024,11,258,UL Monroe,243,Texas State,17,38
+401643829,2024,11,223,Southern Miss,128,Marshall,3,37
+401643830,2024,12,81,Georgia Southern,248,Troy,20,28
+401643831,2024,12,82,Georgia State,11,Arkansas State,20,27
+401643832,2024,12,128,Marshall,46,Coastal Carolina,31,19
+401643833,2024,12,183,Old Dominion,105,James Madison,32,35
+401643834,2024,12,123,Louisiana,214,South Alabama,22,24
+401643835,2024,12,243,Texas State,223,Southern Miss,58,3
+401643836,2024,13,7,App State,105,James Madison,34,20
+401643837,2024,13,46,Coastal Carolina,81,Georgia Southern,6,26
+401643838,2024,13,183,Old Dominion,128,Marshall,35,42
+401643839,2024,13,11,Arkansas State,258,UL Monroe,28,21
+401643840,2024,13,123,Louisiana,248,Troy,51,30
+401643841,2024,13,223,Southern Miss,214,South Alabama,14,35
+401643842,2024,13,243,Texas State,82,Georgia State,44,52
+401643843,2024,14,214,South Alabama,243,Texas State,38,45
+401643844,2024,14,81,Georgia Southern,7,App State,29,20
+401643845,2024,14,82,Georgia State,46,Coastal Carolina,27,48
+401643846,2024,14,105,James Madison,128,Marshall,36,30
+401643847,2024,14,11,Arkansas State,183,Old Dominion,32,40
+401643848,2024,14,258,UL Monroe,123,Louisiana,23,37
+401643849,2024,14,248,Troy,223,Southern Miss,52,20
+401643858,2024,1,88,Hawai'i,56,Delaware State,35,14
+401644596,2024,4,87,Harvard,230,Stetson,35,0
+401644597,2024,5,26,Brown,87,Harvard,33,28
+401644598,2024,6,87,Harvard,158,New Hampshire,28,23
+401644599,2024,7,51,Cornell,87,Harvard,20,38
+401644600,2024,8,87,Harvard,89,Holy Cross,35,34
+401644602,2024,10,52,Dartmouth,87,Harvard,27,24
+401644604,2024,12,188,Pennsylvania,87,Harvard,28,31
+401644683,2024,1,176,Northwestern,138,Miami (OH),13,6
+401644684,2024,6,246,Toledo,138,Miami (OH),30,20
+401644685,2024,7,65,Eastern Michigan,138,Miami (OH),14,38
+401644686,2024,8,138,Miami (OH),179,Ohio,30,20
+401644687,2024,9,138,Miami (OH),37,Central Michigan,46,7
+401644688,2024,11,19,Ball State,138,Miami (OH),21,27
+401644689,2024,12,138,Miami (OH),109,Kent State,34,7
+401644690,2024,13,138,Miami (OH),173,Northern Illinois,20,9
+401644691,2024,14,25,Bowling Green,138,Miami (OH),12,28
+401644727,2024,1,29,Buffalo,114,Lafayette,30,13
+401644728,2024,1,246,Toledo,59,Duquesne,49,10
+401644729,2024,1,25,Bowling Green,74,Fordham,41,17
+401644730,2024,1,37,Central Michigan,36,Central Connecticut,65,10
+401644731,2024,1,173,Northern Illinois,288,Western Illinois,54,15
+401644732,2024,2,109,Kent State,226,St. Francis (PA),17,23
+401644733,2024,3,2,Akron,47,Colgate,31,20
+401644734,2024,3,179,Ohio,152,Morgan State,21,6
+401644735,2024,4,37,Central Michigan,19,Ball State,37,34
+401644736,2024,4,173,Northern Illinois,29,Buffalo,20,23
+401644737,2024,4,65,Eastern Michigan,226,St. Francis (PA),36,0
+401644738,2024,5,179,Ohio,2,Akron,23,10
+401644739,2024,5,109,Kent State,65,Eastern Michigan,33,52
+401644740,2024,6,2,Akron,25,Bowling Green,20,27
+401644741,2024,6,19,Ball State,290,Western Michigan,42,45
+401644742,2024,7,290,Western Michigan,2,Akron,34,24
+401644743,2024,7,109,Kent State,19,Ball State,35,37
+401644744,2024,7,25,Bowling Green,173,Northern Illinois,7,17
+401644745,2024,7,29,Buffalo,246,Toledo,30,15
+401644746,2024,7,37,Central Michigan,179,Ohio,25,27
+401644748,2024,8,25,Bowling Green,109,Kent State,27,6
+401644749,2024,8,29,Buffalo,290,Western Michigan,41,48
+401644750,2024,8,65,Eastern Michigan,37,Central Michigan,38,34
+401644751,2024,8,173,Northern Illinois,246,Toledo,6,13
+401644752,2024,9,2,Akron,65,Eastern Michigan,25,21
+401644753,2024,9,19,Ball State,173,Northern Illinois,25,23
+401644754,2024,9,246,Toledo,25,Bowling Green,26,41
+401644755,2024,9,179,Ohio,29,Buffalo,47,16
+401644756,2024,9,290,Western Michigan,109,Kent State,52,21
+401644757,2024,10,2,Akron,29,Buffalo,30,41
+401644758,2024,10,65,Eastern Michigan,246,Toledo,28,29
+401644760,2024,11,37,Central Michigan,25,Bowling Green,13,23
+401644761,2024,11,109,Kent State,179,Ohio,0,41
+401644762,2024,11,290,Western Michigan,173,Northern Illinois,28,42
+401644763,2024,12,29,Buffalo,19,Ball State,51,48
+401644764,2024,12,25,Bowling Green,290,Western Michigan,31,13
+401644765,2024,12,246,Toledo,37,Central Michigan,37,10
+401644766,2024,12,173,Northern Illinois,2,Akron,29,16
+401644767,2024,12,179,Ohio,65,Eastern Michigan,35,10
+401644769,2024,13,109,Kent State,2,Akron,17,38
+401644770,2024,13,37,Central Michigan,290,Western Michigan,16,14
+401644772,2024,13,65,Eastern Michigan,29,Buffalo,20,37
+401644773,2024,13,246,Toledo,179,Ohio,7,24
+401644774,2024,13,19,Ball State,25,Bowling Green,13,38
+401644775,2024,14,2,Akron,246,Toledo,22,14
+401644776,2024,14,29,Buffalo,109,Kent State,43,7
+401644777,2024,14,179,Ohio,19,Ball State,42,21
+401644779,2024,14,173,Northern Illinois,37,Central Michigan,21,6
+401644780,2024,14,290,Western Michigan,65,Eastern Michigan,26,18
+401645308,2024,9,130,Massachusetts,278,Wagner,35,7
+401645316,2024,1,252,UAB,6,Alcorn State,41,3
+401645317,2024,1,249,Tulane,202,SE Louisiana,52,0
+401645318,2024,1,250,Tulsa,177,Northwestern State,62,28
+401645319,2024,1,13,Army,117,Lehigh,42,7
+401645320,2024,1,60,East Carolina,162,Norfolk State,42,3
+401645321,2024,1,133,Memphis,163,North Alabama,40,0
+401645322,2024,1,155,Navy,28,Bucknell,49,21
+401645323,2024,2,71,Florida Atlantic,13,Army,7,24
+401645324,2024,2,155,Navy,236,Temple,38,11
+401645325,2024,2,170,North Texas,229,Stephen F. Austin,35,20
+401645326,2024,2,197,Rice,242,Texas Southern,69,7
+401645327,2024,3,41,Charlotte,77,Gardner-Webb,27,26
+401645328,2024,4,13,Army,197,Rice,37,14
+401645329,2024,4,155,Navy,133,Memphis,56,44
+401645330,2024,4,263,UTSA,91,Houston Christian,45,7
+401645331,2024,5,236,Temple,13,Army,14,42
+401645332,2024,5,252,UAB,155,Navy,18,41
+401645333,2024,5,197,Rice,41,Charlotte,20,21
+401645334,2024,5,60,East Carolina,263,UTSA,30,20
+401645335,2024,5,71,Florida Atlantic,278,Wagner,41,10
+401645336,2024,5,170,North Texas,250,Tulsa,52,20
+401645337,2024,5,249,Tulane,219,South Florida,45,10
+401645338,2024,6,252,UAB,249,Tulane,20,71
+401645339,2024,6,250,Tulsa,13,Army,7,49
+401645340,2024,6,41,Charlotte,60,East Carolina,55,24
+401645341,2024,7,219,South Florida,133,Memphis,3,21
+401645342,2024,7,13,Army,252,UAB,44,10
+401645343,2024,7,71,Florida Atlantic,170,North Texas,37,41
+401645344,2024,7,197,Rice,263,UTSA,29,27
+401645345,2024,8,219,South Florida,252,UAB,35,25
+401645346,2024,8,13,Army,60,East Carolina,45,28
+401645347,2024,8,155,Navy,41,Charlotte,51,17
+401645348,2024,8,263,UTSA,71,Florida Atlantic,38,24
+401645349,2024,8,133,Memphis,170,North Texas,52,44
+401645350,2024,8,249,Tulane,197,Rice,24,10
+401645351,2024,8,236,Temple,250,Tulsa,20,10
+401645352,2024,9,60,East Carolina,236,Temple,56,34
+401645353,2024,9,133,Memphis,41,Charlotte,33,28
+401645354,2024,9,170,North Texas,249,Tulane,37,45
+401645355,2024,9,250,Tulsa,263,UTSA,46,45
+401645356,2024,10,41,Charlotte,249,Tulane,3,34
+401645357,2024,10,71,Florida Atlantic,219,South Florida,21,44
+401645358,2024,10,252,UAB,250,Tulsa,59,21
+401645359,2024,10,263,UTSA,133,Memphis,44,36
+401645360,2024,10,197,Rice,155,Navy,24,10
+401645361,2024,11,60,East Carolina,71,Florida Atlantic,49,14
+401645362,2024,11,133,Memphis,197,Rice,27,20
+401645363,2024,11,219,South Florida,155,Navy,7,28
+401645364,2024,11,249,Tulane,236,Temple,52,6
+401645365,2024,12,250,Tulsa,60,East Carolina,31,38
+401645366,2024,12,263,UTSA,170,North Texas,48,27
+401645367,2024,12,133,Memphis,252,UAB,53,18
+401645368,2024,12,41,Charlotte,219,South Florida,24,59
+401645369,2024,12,236,Temple,71,Florida Atlantic,18,15
+401645370,2024,12,155,Navy,249,Tulane,0,35
+401645371,2024,13,71,Florida Atlantic,41,Charlotte,27,39
+401645372,2024,13,170,North Texas,60,East Carolina,28,40
+401645373,2024,13,252,UAB,197,Rice,40,14
+401645374,2024,13,263,UTSA,236,Temple,51,27
+401645375,2024,13,219,South Florida,250,Tulsa,63,30
+401645376,2024,14,249,Tulane,133,Memphis,24,34
+401645377,2024,14,41,Charlotte,252,UAB,29,27
+401645378,2024,14,13,Army,263,UTSA,29,24
+401645379,2024,14,60,East Carolina,155,Navy,20,34
+401645380,2024,14,250,Tulsa,71,Florida Atlantic,16,63
+401645381,2024,14,236,Temple,170,North Texas,17,24
+401645382,2024,14,197,Rice,219,South Florida,35,28
+401654456,2024,4,78,Georgetown,26,Brown,14,26
+401654457,2024,8,194,Princeton,26,Brown,29,17
+401654458,2024,9,26,Brown,51,Cornell,23,21
+401654459,2024,10,26,Brown,188,Pennsylvania,28,38
+401654460,2024,11,297,Yale,26,Brown,49,26
+401654462,2024,13,52,Dartmouth,26,Brown,56,28
+401654463,2024,4,117,Lehigh,194,Princeton,35,20
+401654464,2024,5,194,Princeton,92,Howard,30,13
+401654466,2024,10,194,Princeton,51,Cornell,35,49
+401654467,2024,11,194,Princeton,52,Dartmouth,17,24
+401654468,2024,12,297,Yale,194,Princeton,42,28
+401654469,2024,13,194,Princeton,188,Pennsylvania,20,17
+401654470,2024,4,52,Dartmouth,74,Fordham,45,13
+401654471,2024,5,136,Merrimack,52,Dartmouth,14,16
+401654472,2024,6,52,Dartmouth,188,Pennsylvania,20,17
+401654473,2024,7,297,Yale,52,Dartmouth,37,37
+401654474,2024,8,52,Dartmouth,36,Central Connecticut,20,16
+401654476,2024,12,51,Cornell,52,Dartmouth,36,14
+401654487,2024,4,50,Columbia,114,Lafayette,31,20
+401654488,2024,5,78,Georgetown,50,Columbia,20,17
+401654489,2024,6,50,Columbia,194,Princeton,27,17
+401654490,2024,7,278,Wagner,50,Columbia,6,24
+401654491,2024,8,188,Pennsylvania,50,Columbia,17,23
+401654492,2024,9,50,Columbia,52,Dartmouth,21,24
+401654493,2024,10,50,Columbia,297,Yale,13,10
+401654494,2024,11,87,Harvard,50,Columbia,26,6
+401654495,2024,12,26,Brown,50,Columbia,3,14
+401654496,2024,13,50,Columbia,51,Cornell,17,9
+401654497,2024,1,205,Sacred Heart,56,Delaware State,15,17
+401654498,2024,3,56,Delaware State,278,Wagner,7,30
+401654499,2024,7,199,Robert Morris,56,Delaware State,23,0
+401654500,2024,9,216,South Carolina State,56,Delaware State,69,35
+401654501,2024,10,92,Howard,56,Delaware State,38,0
+401654502,2024,11,56,Delaware State,152,Morgan State,28,36
+401654503,2024,12,162,Norfolk State,56,Delaware State,38,19
+401654504,2024,13,56,Delaware State,166,North Carolina Central,10,52
+401654506,2024,5,51,Cornell,297,Yale,47,23
+401654507,2024,8,28,Bucknell,51,Cornell,21,34
+401654508,2024,11,51,Cornell,188,Pennsylvania,49,67
+401654509,2024,6,56,Delaware State,226,St. Francis (PA),17,28
+401654510,2024,1,85,Hampton,152,Morgan State,28,30
+401654514,2024,9,166,North Carolina Central,152,Morgan State,16,7
+401654538,2024,2,245,The Citadel,216,South Carolina State,20,23
+401654539,2024,6,239,Tennessee Tech,216,South Carolina State,20,22
+401654541,2024,10,216,South Carolina State,166,North Carolina Central,24,21
+401654542,2024,11,92,Howard,216,South Carolina State,14,38
+401654543,2024,13,216,South Carolina State,162,Norfolk State,53,21
+401654549,2024,2,162,Norfolk State,274,Virginia St,28,23
+401654550,2024,4,269,VMI,162,Norfolk State,10,32
+401654551,2024,6,205,Sacred Heart,162,Norfolk State,10,3
+401654552,2024,9,162,Norfolk State,92,Howard,21,23
+401654553,2024,5,162,Norfolk State,166,North Carolina Central,10,37
+401654555,2024,7,166,North Carolina Central,277,Virginia University Of Lynchburg,68,0
+401654556,2024,12,166,North Carolina Central,92,Howard,26,3
+401654557,2024,1,132,McNeese,221,Southern,21,7
+401654558,2024,2,221,Southern,211,Savannah St,42,10
+401654559,2024,4,192,Prairie View A&M,221,Southern,24,38
+401654560,2024,6,221,Southern,161,Nicholls,7,51
+401654561,2024,8,221,Southern,6,Alcorn State,24,14
+401654562,2024,1,217,South Dakota,175,Northern State,45,3
+401654563,2024,4,217,South Dakota,57,Drake,42,3
+401654564,2024,7,217,South Dakota,174,Northern Iowa,42,17
+401654566,2024,4,115,Lamar,242,Texas Southern,20,17
+401654567,2024,6,242,Texas Southern,277,Virginia University Of Lynchburg,28,10
+401654568,2024,11,6,Alcorn State,242,Texas Southern,42,21
+401654569,2024,2,177,Northwestern State,192,Prairie View A&M,31,37
+401654570,2024,9,192,Prairie View A&M,62,East Texas A&M,34,27
+401654571,2024,10,145,Mississippi Valley State,192,Prairie View A&M,16,17
+401654572,2024,12,192,Prairie View A&M,6,Alcorn State,13,26
+401654573,2024,2,36,Central Connecticut,74,Fordham,33,3
+401654574,2024,3,226,St. Francis (PA),36,Central Connecticut,0,0
+401654575,2024,6,297,Yale,36,Central Connecticut,23,22
+401654576,2024,7,36,Central Connecticut,135,Mercyhurst,38,20
+401654577,2024,9,122,Long Island University,36,Central Connecticut,24,21
+401654578,2024,10,36,Central Connecticut,278,Wagner,24,14
+401654579,2024,11,231,Stonehill,36,Central Connecticut,17,21
+401654581,2024,13,36,Central Connecticut,59,Duquesne,21,14
+401654582,2024,1,174,Northern Iowa,270,Valparaiso,35,7
+401654583,2024,2,227,St. Thomas (MN),174,Northern Iowa,10,7
+401654584,2024,1,238,Tennessee State,145,Mississippi Valley State,41,21
+401654585,2024,2,115,Lamar,145,Mississippi Valley State,28,14
+401654586,2024,4,161,Nicholls,145,Mississippi Valley State,66,0
+401654587,2024,5,145,Mississippi Valley State,6,Alcorn State,21,42
+401654588,2024,4,59,Duquesne,286,West Virginia Wesleyan,35,0
+401654589,2024,6,59,Duquesne,122,Long Island University,47,21
+401654590,2024,7,226,St. Francis (PA),59,Duquesne,7,31
+401654591,2024,9,231,Stonehill,59,Duquesne,34,48
+401654592,2024,10,59,Duquesne,135,Mercyhurst,31,24
+401654593,2024,11,59,Duquesne,199,Robert Morris,34,6
+401654594,2024,12,59,Duquesne,278,Wagner,42,21
+401654595,2024,3,122,Long Island University,117,Lehigh,17,20
+401654596,2024,7,122,Long Island University,231,Stonehill,31,7
+401654597,2024,8,199,Robert Morris,122,Long Island University,45,31
+401654598,2024,11,205,Sacred Heart,122,Long Island University,7,28
+401654602,2024,4,132,McNeese,6,Alcorn State,42,14
+401654603,2024,3,172,Northern Colorado,0,Abilene Christian,22,24
+401654604,2024,4,0,Abilene Christian,93,Idaho,24,27
+401654605,2024,2,199,Robert Morris,67,Edinboro University,21,21
+401654606,2024,4,278,Wagner,199,Robert Morris,14,21
+401654608,2024,9,199,Robert Morris,226,St. Francis (PA),17,0
+401654609,2024,10,199,Robert Morris,136,Merrimack,6,0
+401654610,2024,13,199,Robert Morris,231,Stonehill,21,13
+401654611,2024,3,28,Bucknell,136,Merrimack,21,31
+401654612,2024,8,136,Merrimack,231,Stonehill,48,28
+401654613,2024,9,136,Merrimack,47,Colgate,51,17
+401654614,2024,12,136,Merrimack,205,Sacred Heart,20,31
+401654615,2024,13,74,Fordham,136,Merrimack,3,19
+401654616,2024,2,117,Lehigh,278,Wagner,49,13
+401654618,2024,8,297,Yale,117,Lehigh,38,29
+401654619,2024,9,117,Lehigh,74,Fordham,33,27
+401654620,2024,10,78,Georgetown,117,Lehigh,6,43
+401654621,2024,11,89,Holy Cross,117,Lehigh,7,13
+401654622,2024,12,117,Lehigh,47,Colgate,45,17
+401654623,2024,13,117,Lehigh,114,Lafayette,38,14
+401654624,2024,3,114,Lafayette,127,Marist,56,14
+401654625,2024,6,74,Fordham,114,Lafayette,23,28
+401654626,2024,7,114,Lafayette,78,Georgetown,0,17
+401654627,2024,8,114,Lafayette,205,Sacred Heart,31,17
+401654628,2024,9,114,Lafayette,89,Holy Cross,28,34
+401654629,2024,10,28,Bucknell,114,Lafayette,21,14
+401654630,2024,11,47,Colgate,114,Lafayette,20,21
+401654631,2024,12,114,Lafayette,231,Stonehill,42,10
+401654632,2024,2,205,Sacred Heart,225,St. Anselm,10,3
+401654633,2024,3,205,Sacred Heart,78,Georgetown,40,14
+401654634,2024,4,231,Stonehill,205,Sacred Heart,35,21
+401654635,2024,13,135,Mercyhurst,226,St. Francis (PA),29,20
+401654636,2024,4,89,Holy Cross,297,Yale,31,38
+401654637,2024,6,47,Colgate,89,Holy Cross,7,16
+401654638,2024,7,89,Holy Cross,74,Fordham,19,16
+401654639,2024,12,89,Holy Cross,28,Bucknell,40,38
+401654640,2024,13,78,Georgetown,89,Holy Cross,0,34
+401654641,2024,1,78,Georgetown,53,Davidson,46,24
+401654642,2024,2,127,Marist,78,Georgetown,10,31
+401654643,2024,8,47,Colgate,78,Georgetown,38,35
+401654644,2024,9,78,Georgetown,28,Bucknell,21,20
+401654646,2024,1,54,Dayton,226,St. Francis (PA),18,10
+401654647,2024,8,278,Wagner,226,St. Francis (PA),14,0
+401654648,2024,10,226,St. Francis (PA),231,Stonehill,34,0
+401654649,2024,2,269,VMI,28,Bucknell,28,35
+401654650,2024,4,28,Bucknell,127,Marist,34,18
+401654651,2024,7,188,Pennsylvania,28,Bucknell,31,21
+401654652,2024,11,28,Bucknell,74,Fordham,28,27
+401654653,2024,13,28,Bucknell,47,Colgate,48,34
+401654654,2024,6,231,Stonehill,278,Wagner,7,28
+401654657,2024,1,278,Wagner,277,Virginia University Of Lynchburg,46,7
+401654662,2024,1,220,Southeast Missouri State,163,North Alabama,37,15
+401654663,2024,3,261,UT Martin,163,North Alabama,43,28
+401654664,2024,2,91,Houston Christian,235,Tarleton State,18,35
+401654665,2024,1,235,Tarleton State,132,McNeese,26,23
+401654666,2024,5,235,Tarleton State,202,SE Louisiana,36,33
+401654674,2024,3,62,East Texas A&M,84,Grambling,28,42
+401654677,2024,2,76,Furman,40,Charleston Southern,20,24
+401654678,2024,3,76,Furman,230,Stetson,48,7
+401654844,2024,1,40,Charleston Southern,245,The Citadel,21,22
+401654845,2024,1,95,Illinois,63,Eastern Illinois,45,0
+401654846,2024,5,220,Southeast Missouri State,177,Northwestern State,19,0
+401654847,2024,5,288,Western Illinois,131,McKendree,49,32
+401654848,2024,3,245,The Citadel,169,North Greenville,54,0
+401654850,2024,2,254,UC Davis,62,East Texas A&M,22,0
+401654851,2024,4,62,East Texas A&M,204,Sacramento State,0,34
+401655616,2024,3,115,Lamar,283,Weber State,17,16
+401655617,2024,5,283,Weber State,132,McNeese,26,28
+401655618,2024,3,204,Sacramento State,161,Nicholls,34,7
+401655619,2024,4,177,Northwestern State,283,Weber State,0,39
+401655620,2024,3,202,SE Louisiana,66,Eastern Washington,28,24
+401655621,2024,1,208,San Diego,31,Cal Poly,0,0
+401655622,2024,3,31,Cal Poly,291,Western Oregon,31,14
+401655624,2024,2,94,Idaho State,291,Western Oregon,50,10
+401655625,2024,3,149,Montana,151,Morehead State,59,2
+401655626,2024,4,149,Montana,287,Western Carolina,46,35
+401655628,2024,1,171,Northern Arizona,119,Lincoln (CA),66,6
+401655630,2024,4,229,Stephen F. Austin,172,Northern Colorado,48,7
+401655631,2024,4,193,Presbyterian,77,Gardner-Webb,21,42
+401655632,2024,3,176,Northwestern,63,Eastern Illinois,31,7
+401655634,2024,4,120,Lindenwood,227,St. Thomas (MN),64,0
+401655635,2024,8,92,Howard,238,Tennessee State,14,27
+401655656,2024,11,207,Samford,239,Tennessee Tech,7,27
+401655657,2024,1,30,Butler,265,Upper Iowa University,40,7
+401655658,2024,3,30,Butler,86,Hanover College,53,0
+401655659,2024,5,30,Butler,277,Virginia University Of Lynchburg,63,0
+401655660,2024,2,53,Davidson,34,Catawba,49,14
+401655661,2024,3,53,Davidson,190,Point University,42,12
+401655663,2024,4,54,Dayton,17,Ave Maria University,49,7
+401655666,2024,3,193,Presbyterian,277,Virginia University Of Lynchburg,52,0
+401655859,2024,3,270,Valparaiso,100,Indiana Wesleyan,17,7
+401655860,2024,1,227,St. Thomas (MN),213,Sioux Falls,13,27
+401655861,2024,3,227,St. Thomas (MN),22,Black Hills State,24,14
+401656598,2024,2,92,Howard,135,Mercyhurst,32,31
+401656600,2024,1,126,Maine,47,Colgate,17,14
+401656601,2024,5,188,Pennsylvania,47,Colgate,27,17
+401656602,2024,10,74,Fordham,47,Colgate,20,14
+401656951,2024,9,205,Sacred Heart,135,Mercyhurst,31,14
+401656952,2024,3,199,Robert Morris,135,Mercyhurst,48,21
+401673031,2024,7,92,Howard,205,Sacred Heart,21,14
+401673036,2024,9,188,Pennsylvania,297,Yale,10,31
+401673041,2024,1,151,Morehead State,38,Central State (OH),17,10
+401673042,2024,2,151,Morehead State,111,Kentucky Christian,48,7
+401673043,2024,2,208,San Diego,39,Central Washington,26,7
+401673044,2024,1,230,Stetson,17,Ave Maria University,41,3
+401673045,2024,2,230,Stetson,280,Warner University,35,0
+401673046,2024,4,270,Valparaiso,200,Roosevelt,31,23
+401673462,2024,15,13,Army,249,Tulane,35,14
+401673463,2024,15,203,SMU,45,Clemson,31,34
+401673464,2024,15,185,Oregon,187,Penn State,45,37
+401673465,2024,15,9,Arizona State,102,Iowa State,45,19
+401673466,2024,15,104,Jacksonville State,289,Western Kentucky,52,12
+401673467,2024,15,138,Miami (OH),179,Ohio,3,38
+401673468,2024,15,23,Boise State,259,UNLV,21,7
+401673469,2024,15,240,Texas,80,Georgia,19,22
+401673470,2024,15,123,Louisiana,128,Marshall,3,31
+401673471,2024,15,103,Jackson State,221,Southern,41,13
+401675115,2024,3,132,McNeese,229,Stephen F. Austin,28,24
+401675116,2024,7,91,Houston Christian,202,SE Louisiana,7,37
+401675117,2024,6,229,Stephen F. Austin,177,Northwestern State,58,17
+401675118,2024,7,115,Lamar,229,Stephen F. Austin,20,27
+401675119,2024,8,202,SE Louisiana,229,Stephen F. Austin,24,23
+401675120,2024,9,229,Stephen F. Austin,91,Houston Christian,55,6
+401675121,2024,10,161,Nicholls,229,Stephen F. Austin,12,28
+401675122,2024,11,62,East Texas A&M,229,Stephen F. Austin,19,14
+401675123,2024,12,229,Stephen F. Austin,97,Incarnate Word,20,27
+401677076,2024,1,216,South Carolina State,103,Jackson State,7,28
+401677077,2024,1,290,Western Michigan,214,South Alabama,23,30
+401677079,2024,1,105,James Madison,289,Western Kentucky,27,17
+401677080,2024,1,285,West Virginia,133,Memphis,37,42
+401677081,2024,1,259,UNLV,32,California,24,13
+401677082,2024,1,206,Sam Houston,81,Georgia Southern,31,26
+401677083,2024,1,104,Jacksonville State,179,Ohio,27,30
+401677084,2024,1,69,Florida,249,Tulane,33,8
+401677085,2024,1,263,UTSA,46,Coastal Carolina,44,15
+401677086,2024,1,75,Fresno State,173,Northern Illinois,20,28
+401677087,2024,1,210,San JosÃ© State,219,South Florida,39,41
+401677088,2024,1,107,Kansas State,201,Rutgers,44,41
+401677089,2024,1,25,Bowling Green,11,Arkansas State,31,38
+401677090,2024,1,155,Navy,181,Oklahoma,21,14
+401677091,2024,1,271,Vanderbilt,83,Georgia Tech,35,27
+401677092,2024,1,10,Arkansas,244,Texas Tech,39,26
+401677093,2024,1,260,USC,241,Texas A&M,31,35
+401677094,2024,1,164,North Carolina,257,UConn,14,27
+401677095,2024,1,156,Nebraska,24,Boston College,20,15
+401677096,2024,1,234,TCU,123,Louisiana,34,3
+401677097,2024,1,137,Miami,102,Iowa State,41,42
+401677098,2024,1,154,NC State,60,East Carolina,21,26
+401677099,2024,1,48,Colorado,18,BYU,14,36
+401677100,2024,1,13,Army,124,Louisiana Tech,27,6
+401677101,2024,1,146,Missouri,101,Iowa,27,24
+401677102,2024,1,139,Michigan,3,Alabama,19,13
+401677103,2024,1,95,Illinois,215,South Carolina,21,17
+401677104,2024,1,113,LSU,20,Baylor,44,31
+401677176,2024,1,240,Texas,45,Clemson,38,24
+401677177,2024,1,180,Ohio State,237,Tennessee,42,17
+401677178,2024,1,187,Penn State,203,SMU,38,10
+401677179,2024,1,178,Notre Dame,98,Indiana,27,17
+401677180,2024,1,246,Toledo,189,Pittsburgh,48,46
+401677181,2024,1,23,Boise State,187,Penn State,14,31
+401677182,2024,1,9,Arizona State,240,Texas,31,39
+401677183,2024,1,185,Oregon,180,Ohio State,21,41
+401677188,2024,1,49,Colorado State,138,Miami (OH),17,43
+401677190,2024,1,281,Washington,125,Louisville,34,35
+401677764,2024,4,150,Montana State,135,Mercyhurst,52,13
+401678896,2024,13,229,Stephen F. Austin,0,Abilene Christian,32,25
+401678897,2024,4,163,North Alabama,235,Tarleton State,14,28
+401678898,2024,3,4,Alabama A&M,79,Georgetown College Kentucky,24,16
+401678916,2024,12,35,Central Arkansas,224,Southern Utah,14,6
+401678917,2024,7,224,Southern Utah,64,Eastern Kentucky,42,21
+401679157,2024,11,135,Mercyhurst,119,Lincoln (CA),66,0
+401729729,2024,14,158,New Hampshire,261,UT Martin,7,27
+401729730,2024,14,198,Richmond,117,Lehigh,16,20
+401729731,2024,14,220,Southeast Missouri State,96,Illinois State,27,35
+401729732,2024,14,235,Tarleton State,57,Drake,43,29
+401729734,2024,14,149,Montana,238,Tennessee State,41,27
+401729737,2024,14,196,Rhode Island,36,Central Connecticut,21,17
+401729738,2024,14,0,Abilene Christian,171,Northern Arizona,24,0
+401729745,2024,15,168,North Dakota State,0,Abilene Christian,51,31
+401729752,2024,15,217,South Dakota,235,Tarleton State,35,31
+401729786,2024,1,168,North Dakota State,218,South Dakota State,28,21
+401729787,2024,1,150,Montana State,217,South Dakota,31,17
+401729867,2024,1,282,Washington State,233,Syracuse,35,52
