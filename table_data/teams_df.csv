@@ -1,0 +1,300 @@
+team_id,team_name,pff_name,conference,city,state
+0,Abilene Christian,,non-FBS,,
+1,Air Force,AIR FORCE,Mountain West,Colorado Springs,CO
+2,Akron,AKRON,MAC,Akron,OH
+3,Alabama,ALABAMA,SEC,Tuscaloosa,AL
+4,Alabama A&M,,non-FBS,,
+5,Alabama State,,non-FBS,,
+6,Alcorn State,,non-FBS,,
+7,App State,APP STATE,Sun Belt,Boone,NC
+8,Arizona,ARIZONA,Big 12,Tucson,AZ
+9,Arizona State,ARIZONA ST,Big 12,Tempe,AZ
+10,Arkansas,ARKANSAS,SEC,Fayetteville,AR
+11,Arkansas State,ARK STATE,Sun Belt,Jonesboro,AR
+12,Arkansas-Pine Bluff,,non-FBS,,
+13,Army,ARMY,American,West Point,NY
+14,Auburn,AUBURN,SEC,Auburn,AL
+15,Augustana University (SD),,non-FBS,,
+16,Austin Peay,,non-FBS,,
+17,Ave Maria University,,non-FBS,,
+18,BYU,BYU,Big 12,Provo,UT
+19,Ball State,BALL ST,MAC,Muncie,IN
+20,Baylor,BAYLOR,Big 12,Waco,TX
+21,Bethune-Cookman,,non-FBS,,
+22,Black Hills State,,non-FBS,,
+23,Boise State,BOISE ST,Mountain West,Boise,ID
+24,Boston College,BOSTON COL,ACC,Chestnut Hill,MA
+25,Bowling Green,BOWL GREEN,MAC,Bowling Green,OH
+26,Brown,,non-FBS,,
+27,Bryant,,non-FBS,,
+28,Bucknell,,non-FBS,,
+29,Buffalo,BUFFALO,MAC,Buffalo,NY
+30,Butler,,non-FBS,,
+31,Cal Poly,,non-FBS,,
+32,California,CAL,ACC,Berkeley,CA
+33,Campbell,,non-FBS,,
+34,Catawba,,non-FBS,,
+35,Central Arkansas,,non-FBS,,
+36,Central Connecticut,,non-FBS,,
+37,Central Michigan,C MICHIGAN,MAC,Mount Pleasant,MI
+38,Central State (OH),,non-FBS,,
+39,Central Washington,,non-FBS,,
+40,Charleston Southern,,non-FBS,,
+41,Charlotte,CHARLOTTE,American,Charlotte,NC
+42,Chattanooga,,non-FBS,,
+43,Cincinnati,CINCINNATI,Big 12,Cincinnati,OH
+44,Clark Atlanta,,non-FBS,,
+45,Clemson,CLEMSON,ACC,Clemson,SC
+46,Coastal Carolina,COAST CAR,Sun Belt,Conway,SC
+47,Colgate,,non-FBS,,
+48,Colorado,COLORADO,Big 12,Boulder,CO
+49,Colorado State,COLO STATE,Mountain West,Fort Collins,CO
+50,Columbia,,non-FBS,,
+51,Cornell,,non-FBS,,
+52,Dartmouth,,non-FBS,,
+53,Davidson,,non-FBS,,
+54,Dayton,,non-FBS,,
+55,Delaware,,non-FBS,,
+56,Delaware State,,non-FBS,,
+57,Drake,,non-FBS,,
+58,Duke,DUKE,ACC,Durham,NC
+59,Duquesne,,non-FBS,,
+60,East Carolina,E CAROLINA,American,Greenville,NC
+61,East Tennessee State,,non-FBS,,
+62,East Texas A&M,,non-FBS,,
+63,Eastern Illinois,,non-FBS,,
+64,Eastern Kentucky,,non-FBS,,
+65,Eastern Michigan,E MICHIGAN,MAC,Ypsilanti,MI
+66,Eastern Washington,,non-FBS,,
+67,Edinboro University,,non-FBS,,
+68,Elon,,non-FBS,,
+69,Florida,FLORIDA,SEC,Gainesville,FL
+70,Florida A&M,,non-FBS,,
+71,Florida Atlantic,FAU,American,Boca Raton,FL
+72,Florida International,FIU,C-USA,Miami,FL
+73,Florida State,FLORIDA ST,ACC,Tallahassee,FL
+74,Fordham,,non-FBS,,
+75,Fresno State,FRESNO ST,Mountain West,Fresno,CA
+76,Furman,,non-FBS,,
+77,Gardner-Webb,,non-FBS,,
+78,Georgetown,,non-FBS,,
+79,Georgetown College Kentucky,,non-FBS,,
+80,Georgia,GEORGIA,SEC,Athens,GA
+81,Georgia Southern,GA SOUTHRN,Sun Belt,Statesboro,GA
+82,Georgia State,GA STATE,Sun Belt,Atlanta,GA
+83,Georgia Tech,GA TECH,ACC,Atlanta,GA
+84,Grambling,,non-FBS,,
+85,Hampton,,non-FBS,,
+86,Hanover College,,non-FBS,,
+87,Harvard,,non-FBS,,
+88,Hawai'i,HAWAII,Mountain West,Honolulu,HI
+89,Holy Cross,,non-FBS,,
+90,Houston,HOUSTON,Big 12,Houston,TX
+91,Houston Christian,,non-FBS,,
+92,Howard,,non-FBS,,
+93,Idaho,,non-FBS,,
+94,Idaho State,,non-FBS,,
+95,Illinois,ILLINOIS,Big Ten,Champaign,IL
+96,Illinois State,,non-FBS,,
+97,Incarnate Word,,non-FBS,,
+98,Indiana,INDIANA,Big Ten,Bloomington,IN
+99,Indiana State,,non-FBS,,
+100,Indiana Wesleyan,,non-FBS,,
+101,Iowa,IOWA,Big Ten,Iowa City,IA
+102,Iowa State,IOWA STATE,Big 12,Ames,IA
+103,Jackson State,,non-FBS,,
+104,Jacksonville State,JVILLE ST,C-USA,Jacksonville,AL
+105,James Madison,JAMES MAD,Sun Belt,Harrisonburg,VA
+106,Kansas,KANSAS,Big 12,Lawrence,KS
+107,Kansas State,KANSAS ST,Big 12,Manhattan,KS
+108,Kennesaw State,KENNESAW,C-USA,Kennesaw,GA
+109,Kent State,KENT STATE,MAC,Kent,OH
+110,Kentucky,KENTUCKY,SEC,Lexington,KY
+111,Kentucky Christian,,non-FBS,,
+112,Kentucky State,,non-FBS,,
+113,LSU,LSU,SEC,Baton Rouge,LA
+114,Lafayette,,non-FBS,,
+115,Lamar,,non-FBS,,
+116,Lane College,,non-FBS,,
+117,Lehigh,,non-FBS,,
+118,Liberty,LIBERTY,C-USA,Lynchburg,VA
+119,Lincoln (CA),,non-FBS,,
+120,Lindenwood,,non-FBS,,
+121,Little Rock,,non-FBS,,
+122,Long Island University,,non-FBS,,
+123,Louisiana,LA LAFAYET,Sun Belt,Lafayette,LA
+124,Louisiana Tech,LA TECH,C-USA,Ruston,LA
+125,Louisville,LOUISVILLE,ACC,Louisville,KY
+126,Maine,,non-FBS,,
+127,Marist,,non-FBS,,
+128,Marshall,MARSHALL,Sun Belt,Huntington,WV
+129,Maryland,MARYLAND,Big Ten,College Park,MD
+130,Massachusetts,UMASS,Independent,Amherst,MA
+131,McKendree,,non-FBS,,
+132,McNeese,,non-FBS,,
+133,Memphis,MEMPHIS,American,Memphis,TN
+134,Mercer,,non-FBS,,
+135,Mercyhurst,,non-FBS,,
+136,Merrimack,,non-FBS,,
+137,Miami,MIAMI FL,ACC,Coral Gables,FL
+138,Miami (OH),MIAMI OH,MAC,Oxford,OH
+139,Michigan,MICHIGAN,Big Ten,Ann Arbor,MI
+140,Michigan State,MICH STATE,Big Ten,East Lansing,MI
+141,Middle Tennessee,MIDDLE TN,C-USA,Murfreesboro,TN
+142,Miles College,,non-FBS,,
+143,Minnesota,MINNESOTA,Big Ten,Minneapolis,MN
+144,Mississippi State,MISS STATE,SEC,Starkville,MS
+145,Mississippi Valley State,,non-FBS,,
+146,Missouri,MISSOURI,SEC,Columbia,MO
+147,Missouri State,,non-FBS,,
+148,Monmouth,,non-FBS,,
+149,Montana,,non-FBS,,
+150,Montana State,,non-FBS,,
+151,Morehead State,,non-FBS,,
+152,Morgan State,,non-FBS,,
+153,Murray State,,non-FBS,,
+154,NC State,NC STATE,ACC,Raleigh,NC
+155,Navy,NAVY,American,Annapolis,MD
+156,Nebraska,NEBRASKA,Big Ten,Lincoln,NE
+157,Nevada,NEVADA,Mountain West,Reno,NV
+158,New Hampshire,,non-FBS,,
+159,New Mexico,NEW MEXICO,Mountain West,Albuquerque,NM
+160,New Mexico State,NEW MEX ST,C-USA,Las Cruces,NM
+161,Nicholls,,non-FBS,,
+162,Norfolk State,,non-FBS,,
+163,North Alabama,,non-FBS,,
+164,North Carolina,N CAROLINA,ACC,Chapel Hill,NC
+165,North Carolina A&T,,non-FBS,,
+166,North Carolina Central,,non-FBS,,
+167,North Dakota,,non-FBS,,
+168,North Dakota State,,non-FBS,,
+169,North Greenville,,non-FBS,,
+170,North Texas,N TEXAS,American,Denton,TX
+171,Northern Arizona,,non-FBS,,
+172,Northern Colorado,,non-FBS,,
+173,Northern Illinois,N ILLINOIS,MAC,DeKalb,IL
+174,Northern Iowa,,non-FBS,,
+175,Northern State,,non-FBS,,
+176,Northwestern,NWESTERN,Big Ten,Evanston,IL
+177,Northwestern State,,non-FBS,,
+178,Notre Dame,NOTRE DAME,Independent,South Bend,IN
+179,Ohio,OHIO,MAC,Athens,OH
+180,Ohio State,OHIO STATE,Big Ten,Columbus,OH
+181,Oklahoma,OKLAHOMA,SEC,Norman,OK
+182,Oklahoma State,OKLA STATE,Big 12,Stillwater,OK
+183,Old Dominion,DOMINION,Sun Belt,Norfolk,VA
+184,Ole Miss,OLE MISS,SEC,Oxford,MS
+185,Oregon,OREGON,Big Ten,Eugene,OR
+186,Oregon State,OREGON ST,Independent,Corvallis,OR
+187,Penn State,PENN STATE,Big Ten,University Park,PA
+188,Pennsylvania,,non-FBS,,
+189,Pittsburgh,PITTSBURGH,ACC,Pittsburgh,PA
+190,Point University,,non-FBS,,
+191,Portland State,,non-FBS,,
+192,Prairie View A&M,,non-FBS,,
+193,Presbyterian,,non-FBS,,
+194,Princeton,,non-FBS,,
+195,Purdue,PURDUE,Big Ten,West Lafayette,IN
+196,Rhode Island,,non-FBS,,
+197,Rice,RICE,American,Houston,TX
+198,Richmond,,non-FBS,,
+199,Robert Morris,,non-FBS,,
+200,Roosevelt,,non-FBS,,
+201,Rutgers,RUTGERS,Big Ten,Piscataway,NJ
+202,SE Louisiana,,non-FBS,,
+203,SMU,SMU,ACC,Dallas,TX
+204,Sacramento State,,non-FBS,,
+205,Sacred Heart,,non-FBS,,
+206,Sam Houston,SM HOUSTON,C-USA,Huntsville,TX
+207,Samford,,non-FBS,,
+208,San Diego,,non-FBS,,
+209,San Diego State,S DIEGO ST,Mountain West,San Diego,CA
+210,San JosÃ© State,S JOSE ST,Mountain West,San Jose,CA
+211,Savannah St,,non-FBS,,
+212,Shorter,,non-FBS,,
+213,Sioux Falls,,non-FBS,,
+214,South Alabama,S ALABAMA,Sun Belt,Mobile,AL
+215,South Carolina,S CAROLINA,SEC,Columbia,SC
+216,South Carolina State,,non-FBS,,
+217,South Dakota,,non-FBS,,
+218,South Dakota State,,non-FBS,,
+219,South Florida,USF,American,Tampa,FL
+220,Southeast Missouri State,,non-FBS,,
+221,Southern,,non-FBS,,
+222,Southern Illinois,,non-FBS,,
+223,Southern Miss,SO MISS,Sun Belt,Hattiesburg,MS
+224,Southern Utah,,non-FBS,,
+225,St. Anselm,,non-FBS,,
+226,St. Francis (PA),,non-FBS,,
+227,St. Thomas (MN),,non-FBS,,
+228,Stanford,STANFORD,ACC,Stanford,CA
+229,Stephen F. Austin,,non-FBS,,
+230,Stetson,,non-FBS,,
+231,Stonehill,,non-FBS,,
+232,Stony Brook,,non-FBS,,
+233,Syracuse,SYRACUSE,ACC,Syracuse,NY
+234,TCU,TCU,Big 12,Fort Worth,TX
+235,Tarleton State,,non-FBS,,
+236,Temple,TEMPLE,American,Philadelphia,PA
+237,Tennessee,TENNESSEE,SEC,Knoxville,TN
+238,Tennessee State,,non-FBS,,
+239,Tennessee Tech,,non-FBS,,
+240,Texas,TEXAS,SEC,Austin,TX
+241,Texas A&M,TEXAS A&M,SEC,College Station,TX
+242,Texas Southern,,non-FBS,,
+243,Texas State,TEXAS ST,Sun Belt,San Marcos,TX
+244,Texas Tech,TEXAS TECH,Big 12,Lubbock,TX
+245,The Citadel,,non-FBS,,
+246,Toledo,TOLEDO,MAC,Toledo,OH
+247,Towson,,non-FBS,,
+248,Troy,TROY,Sun Belt,Troy,AL
+249,Tulane,TULANE,American,New Orleans,LA
+250,Tulsa,TULSA,American,Tulsa,OK
+251,Tuskegee,,non-FBS,,
+252,UAB,UAB,American,Birmingham,AL
+253,UAlbany,,non-FBS,,
+254,UC Davis,,non-FBS,,
+255,UCF,UCF,Big 12,Orlando,FL
+256,UCLA,UCLA,Big Ten,Los Angeles,CA
+257,UConn,UCONN,Independent,Storrs,CT
+258,UL Monroe,LA MONROE,Sun Belt,Monroe,LA
+259,UNLV,UNLV,Mountain West,Las Vegas,NV
+260,USC,USC,Big Ten,Los Angeles,CA
+261,UT Martin,,non-FBS,,
+262,UTEP,UTEP,C-USA,El Paso,TX
+263,UTSA,UTSA,American,San Antonio,TX
+264,UVA Wise,,non-FBS,,
+265,Upper Iowa University,,non-FBS,,
+266,Utah,UTAH,Big 12,Salt Lake City,UT
+267,Utah State,UTAH ST,Mountain West,Logan,UT
+268,Utah Tech,,non-FBS,,
+269,VMI,,non-FBS,,
+270,Valparaiso,,non-FBS,,
+271,Vanderbilt,VANDERBILT,SEC,Nashville,TN
+272,Villanova,,non-FBS,,
+273,Virginia,VIRGINIA,ACC,Charlottesville,VA
+274,Virginia St,,non-FBS,,
+275,Virginia Tech,VA TECH,ACC,Blacksburg,VA
+276,Virginia Union,,non-FBS,,
+277,Virginia University Of Lynchburg,,non-FBS,,
+278,Wagner,,non-FBS,,
+279,Wake Forest,WAKE,ACC,Winston-Salem,NC
+280,Warner University,,non-FBS,,
+281,Washington,WASHINGTON,Big Ten,Seattle,WA
+282,Washington State,WASH STATE,Independent,Pullman,WA
+283,Weber State,,non-FBS,,
+284,West Georgia,,non-FBS,,
+285,West Virginia,W VIRGINIA,Big 12,Morgantown,WV
+286,West Virginia Wesleyan,,non-FBS,,
+287,Western Carolina,,non-FBS,,
+288,Western Illinois,,non-FBS,,
+289,Western Kentucky,W KENTUCKY,C-USA,Bowling Green,KY
+290,Western Michigan,W MICHIGAN,MAC,Kalamazoo,MI
+291,Western Oregon,,non-FBS,,
+292,William & Mary,,non-FBS,,
+293,Winston-Salem,,non-FBS,,
+294,Wisconsin,WISCONSIN,Big Ten,Madison,WI
+295,Wofford,,non-FBS,,
+296,Wyoming,,Mountain West,Laramie,WY
+297,Yale,,non-FBS,,
+298,Youngstown State,,non-FBS,,
